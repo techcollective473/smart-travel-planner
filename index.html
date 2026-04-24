@@ -6,8 +6,43 @@
 </head>
 <body>
 
-<h1>Hello Bhai 😎</h1>
-<p>Website working!</p>
+<!-- INTRO SCREEN -->
+<div id="intro">
+  <div class="text-container">
+    <div id="text">नमस्ते</div>
+  </div>
+</div>
+
+<!-- MAIN WEBSITE -->
+<div id="main">
+
+  <!-- ATTRACTIONS -->
+  <section class="section">
+    <h1>Attractions</h1>
+    <div class="scroll" id="attractions"></div>
+  </section>
+
+  <!-- DESTINATIONS -->
+  <section class="section">
+    <h1>Destinations</h1>
+
+    <select id="interest">
+      <option>Beaches</option>
+      <option>Mountains</option>
+      <option>Spiritual</option>
+    </select>
+
+    <select id="region">
+      <option>North</option>
+      <option>South</option>
+    </select>
+
+    <button onclick="filterPlaces()">Search</button>
+
+    <div id="results"></div>
+  </section>
+
+</div>
 
 <script src="script.js"></script>
 </body>
