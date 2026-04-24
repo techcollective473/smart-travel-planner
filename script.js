@@ -1,76 +1,75 @@
-// TEXT CHANGE
-const texts = ["नमस्ते","নমস্কার","வணக்கம்","ನಮಸ್ಕಾರ","ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ"];
-let i = 0;
-
-function changeText() {
-  const text = document.getElementById("text");
-
-  text.style.transform = "translateY(-20px)";
-  text.style.opacity = "0";
-
-  setTimeout(() => {
-    i = (i + 1) % texts.length;
-    text.innerText = texts[i];
-    text.style.transform = "translateY(0)";
-    text.style.opacity = "1";
-  }, 300);
-}
-
-setInterval(changeText, 1200);
-
-// INTRO HIDE (MAIN FIX)
-window.onload = function () {
-  setTimeout(() => {
-    document.getElementById("intro").style.transform = "translateY(-100%)";
-
-    setTimeout(() => {
-      document.getElementById("main").style.display = "block";
-      document.body.style.overflow = "auto";
-    }, 1000);
-  }, 4000);
-};
-
-// DATA
 const places = [
   {
-    name: "Goa",
-    region: "South",
-    tags: ["Beaches"],
-    img: "https://source.unsplash.com/400x300/?goa,beach"
-  },
-  {
     name: "Manali",
-    region: "North",
-    tags: ["Mountains"],
-    img: "https://source.unsplash.com/400x300/?manali,snow"
+    img: "images/manali.jpg",
+    short: "A beautiful hill station",
+    long: "Manali is famous for snow and adventure.",
+    lat: 32.2432,
+    lon: 77.1892
   },
   {
-    name: "Varanasi",
-    region: "North",
-    tags: ["Spiritual"],
-    img: "https://source.unsplash.com/400x300/?varanasi,ghats"
+    name: "Goa",
+    img: "images/goa.jpg",
+    short: "Famous for beaches",
+    long: "Goa is known for beaches and nightlife.",
+    lat: 15.2993,
+    lon: 74.1240
   }
 ];
 
 // LOAD CARDS
-function loadAttractions() {
-  const container = document.getElementById("attractions");
+const container = document.getElementById("cards");
 
-  places.forEach(p => {
-    const div = document.createElement("div");
-    div.className = "card";
+places.forEach(p => {
+  const div = document.createElement("div");
+  div.className = "card";
 
-    div.innerHTML = `
-      <img src="${p.img}">
-      <h3>${p.name}</h3>
-    `;
+  div.innerHTML = `
+    <img src="${p.img}">
+    <h3>${p.name}</h3>
+  `;
 
-    container.appendChild(div);
-  });
+  div.onclick = () => openModal(p);
+
+  container.appendChild(div);
+});
+
+// OPEN MODAL
+async function openModal(p) {
+  document.getElementById("modal").style.display = "block";
+
+  document.getElementById("modalImg").src = p.img;
+  document.getElementById("modalTitle").innerText = p.name;
+  document.getElementById("shortDesc").innerText = p.short;
+  document.getElementById("longDesc").innerText = p.long;
+
+  // WEATHER
+  const res = await fetch(
+    `https://api.openweathermap.org/data/2.5/weather?lat=${p.lat}&lon=${p.lon}&appid=YOUR_API_KEY&units=metric`
+  );
+
+  const data = await res.json();
+
+  document.getElementById("weather").innerText =
+    data.main.temp + "°C";
+
+  // MAP
+  document.getElementById("map").src =
+    `https://maps.google.com/maps?q=${p.lat},${p.lon}&z=12&output=embed`;
 }
 
-loadAttractions();
+// CLOSE
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+}
 
+// SEE MORE
+function toggleDesc() {
+  const long = document.getElementById("longDesc");
+
+  long.style.display =
+    long.style.display === "none" ? "block" : "none";
+}
 // FILTER
 function filterPlaces() {
   const interest = document.getElementById("interest").value;
