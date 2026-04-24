@@ -1,4 +1,50 @@
+
 body {
+  margin: 0;
+  font-family: Arial;
+  overflow: hidden;
+}
+
+/* INTRO */
+#intro {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
   background: #f5d6a1;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.text-container {
+  font-size: 40px;
+  color: brown;
+}
+
+/* MAIN */
+#main {
+  display: none;
+}
+
+.section {
+  height: 100vh;
+  padding: 20px;
+}
+
+/* SCROLL CARDS */
+.scroll {
+  display: flex;
+  overflow-x: auto;
+}
+
+.card {
+  min-width: 250px;
+  margin: 10px;
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
 }
