@@ -26,29 +26,11 @@ body {
   transition: all 0.5s ease;
 }
 
-/* ROTATING WHEELS */
-.wheel {
-  width: 50px;
-  height: 50px;
-  border: 5px solid brown;
-  border-top: 5px solid transparent;
-  border-radius: 50%;
-  position: absolute;
-  animation: spin 2s linear infinite;
-}
-
 /* CORNERS */
 .top-left { top: 20px; left: 20px; }
 .top-right { top: 20px; right: 20px; }
 .bottom-left { bottom: 20px; left: 20px; }
 .bottom-right { bottom: 20px; right: 20px; }
-
-/* SPIN ANIMATION */
-@keyframes spin {
-  100% {
-    transform: rotate(360deg);
-  }
-}
 
 /* MAIN */
 #main {
