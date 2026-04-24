@@ -61,7 +61,39 @@
   </section>
 
 </div>
+<body>
 
+<!-- ATTRACTIONS -->
+<section class="section">
+  <h1>Attractions</h1>
+  <div id="cards" class="scroll"></div>
+</section>
+
+<!-- MODAL-->
+<div id="modal" class="modal">
+  <div class="modal-content">
+
+    <div class="modal-header">
+      <img id="modalImg">
+      <div class="overlay"></div>
+      <h2 id="modalTitle"></h2>
+    </div>
+
+    <div class="modal-body">
+      <p id="shortDesc"></p>
+      <button onclick="toggleDesc()">See More</button>
+      <p id="longDesc" style="display:none;"></p>
+
+      <p><b>Weather:</b> <span id="weather"></span></p>
+
+      <iframe id="map" width="100%" height="200"></iframe>
+
+      <button onclick="closeModal()">Close</button>
+    </div>
+
+  </div>
+</div>
+  
 <script src="script.js"></script>
 </body>
 </html>
