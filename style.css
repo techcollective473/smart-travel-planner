@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   font-family: Arial;
@@ -8,18 +7,22 @@ body {
 /* INTRO */
 #intro {
   position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100vh;
   background: #f5d6a1;
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1000;
+  z-index: 9999;
+  transition: transform 1s ease-in-out;
 }
 
-.text-container {
+#text {
   font-size: 40px;
   color: brown;
+  transition: all 0.5s ease;
 }
 
 /* MAIN */
@@ -32,7 +35,7 @@ body {
   padding: 20px;
 }
 
-/* SCROLL CARDS */
+/* CARDS */
 .scroll {
   display: flex;
   overflow-x: auto;
