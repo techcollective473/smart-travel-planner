@@ -7,80 +7,27 @@
 
 <body>
 
-<!-- INTRO -->
-<div id="intro">
-
-  <!-- WHEELS -->
-  <div class="wheel top-left"></div>
-  <div class="wheel top-right"></div>
-  <div class="wheel bottom-left"></div>
-  <div class="wheel bottom-right"></div>
-
-  <!-- TEXT -->
-  <div id="text">नमस्ते</div>
-
-</div>
-
-<!-- MAIN -->
-<div id="main">
-
-  <!-- ATTRACTIONS -->
-  <section class="section">
-    <h1>Attractions</h1>
-    <div class="scroll" id="attractions"></div>
-  </section>
-
-  <!-- DESTINATIONS -->
-  <section class="section">
-    <h1>Destinations</h1>
-
-    <select id="interest">
-      <option>Spiritual</option>
-      <option>Historical</option>
-      <option>Wildlife</option>
-      <option>UNESCO</option>
-      <option>Beaches</option>
-      <option>Mountains</option>
-      <option>Festivals</option>
-      <option>Adventure</option>
-      <option>Hiking</option>
-      <option>Ecological</option>
-      <option>Scenic</option>
-    </select>
-
-    <select id="region">
-      <option>East</option>
-      <option>West</option>
-      <option>North</option>
-      <option>South</option>
-    </select>
-
-    <button onclick="filterPlaces()">Search</button>
-
-    <div id="results"></div>
-  </section>
-
-</div>
-<body>
-
 <!-- ATTRACTIONS -->
 <section class="section">
   <h1>Attractions</h1>
   <div id="cards" class="scroll"></div>
 </section>
 
-<!-- MODAL-->
+<!-- MODAL -->
 <div id="modal" class="modal">
   <div class="modal-content">
 
+    <!-- IMAGE -->
     <div class="modal-header">
       <img id="modalImg">
       <div class="overlay"></div>
       <h2 id="modalTitle"></h2>
     </div>
 
+    <!-- DETAILS -->
     <div class="modal-body">
       <p id="shortDesc"></p>
+
       <button onclick="toggleDesc()">See More</button>
       <p id="longDesc" style="display:none;"></p>
 
@@ -93,7 +40,7 @@
 
   </div>
 </div>
-  
+
 <script src="script.js"></script>
 </body>
 </html>
