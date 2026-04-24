@@ -1,9 +1,10 @@
+// DATA (APNI IMAGES DAAL)
 const places = [
   {
     name: "Manali",
     img: "images/manali.jpg",
     short: "A beautiful hill station",
-    long: "Manali is famous for snow and adventure.",
+    long: "Manali is famous for snow, adventure sports and scenic beauty.",
     lat: 32.2432,
     lon: 77.1892
   },
@@ -11,13 +12,13 @@ const places = [
     name: "Goa",
     img: "images/goa.jpg",
     short: "Famous for beaches",
-    long: "Goa is known for beaches and nightlife.",
+    long: "Goa is known for beaches, nightlife and Portuguese culture.",
     lat: 15.2993,
     lon: 74.1240
   }
 ];
 
-// LOAD CARDS
+// CREATE CARDS
 const container = document.getElementById("cards");
 
 places.forEach(p => {
@@ -43,22 +44,25 @@ async function openModal(p) {
   document.getElementById("shortDesc").innerText = p.short;
   document.getElementById("longDesc").innerText = p.long;
 
-  // WEATHER
-  const res = await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?lat=${p.lat}&lon=${p.lon}&appid=YOUR_API_KEY&units=metric`
-  );
+  // WEATHER (API KEY DAALNA)
+  try {
+    const res = await fetch(
+      https://api.openweathermap.org/data/2.5/weather?lat=${p.lat}&lon=${p.lon}&appid=YOUR_API_KEY&units=metric
+    );
+    const data = await res.json();
 
-  const data = await res.json();
-
-  document.getElementById("weather").innerText =
-    data.main.temp + "°C";
+    document.getElementById("weather").innerText =
+      data.main.temp + "°C, " + data.weather[0].main;
+  } catch {
+    document.getElementById("weather").innerText = "Weather not available";
+  }
 
   // MAP
   document.getElementById("map").src =
-    `https://maps.google.com/maps?q=${p.lat},${p.lon}&z=12&output=embed`;
+    https://maps.google.com/maps?q=${p.lat},${p.lon}&z=12&output=embed;
 }
 
-// CLOSE
+// CLOSE MODAL
 function closeModal() {
   document.getElementById("modal").style.display = "none";
 }
@@ -69,26 +73,4 @@ function toggleDesc() {
 
   long.style.display =
     long.style.display === "none" ? "block" : "none";
-}
-// FILTER
-function filterPlaces() {
-  const interest = document.getElementById("interest").value;
-  const region = document.getElementById("region").value;
-
-  const filtered = places.filter(p =>
-    p.tags.includes(interest) && p.region === region
-  );
-
-  const output = document.getElementById("results");
-
-  if (filtered.length === 0) {
-    output.innerHTML = "No destinations found";
-  } else {
-    output.innerHTML = filtered.map(p => `
-      <div class="card">
-        <img src="${p.img}">
-        <h3>${p.name}</h3>
-      </div>
-    `).join("");
-  }
 }
