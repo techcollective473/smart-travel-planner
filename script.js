@@ -1,56 +1,87 @@
-body {
-  margin: 0;
-  font-family: Arial;
-  overflow: hidden;
+// TEXT CHANGE
+const texts = ["नमस्ते","নমস্কার","வணக்கம்","ನಮಸ್ಕಾರ","ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ"];
+let i = 0;
+
+function changeText() {
+  const text = document.getElementById("text");
+
+  text.style.transform = "translateY(-20px)";
+  text.style.opacity = "0";
+
+  setTimeout(() => {
+    i = (i + 1) % texts.length;
+    text.innerText = texts[i];
+    text.style.transform = "translateY(0)";
+    text.style.opacity = "1";
+  }, 300);
 }
 
-/* INTRO */
-#intro {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background: #f5d6a1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 9999;
-  transition: transform 1s ease-in-out;
+setInterval(changeText, 1200);
+
+// INTRO HIDE (MAIN FIX)
+window.onload = function () {
+  setTimeout(() => {
+    document.getElementById("intro").style.transform = "translateY(-100%)";
+
+    setTimeout(() => {
+      document.getElementById("main").style.display = "block";
+      document.body.style.overflow = "auto";
+    }, 1000);
+  }, 4000);
+};
+
+// DATA
+const places = [
+  {
+    name: "Goa",
+    region: "South",
+    tags: ["Beaches"],
+    img: "https://source.unsplash.com/400x300/?goa,beach"
+  },
+  {
+    name: "Manali",
+    region: "North",
+    tags: ["Mountains"],
+    img: "https://source.unsplash.com/400x300/?manali,snow"
+  },
+  {
+    name: "Varanasi",
+    region: "North",
+    tags: ["Spiritual"],
+    img: "https://source.unsplash.com/400x300/?varanasi,ghats"
+  }
+];
+
+// LOAD CARDS
+function loadAttractions() {
+  const container = document.getElementById("attractions");
+
+  places.forEach(p => {
+    const div = document.createElement("div");
+    div.className = "card";
+
+    div.innerHTML = `
+      <img src="${p.img}">
+      <h3>${p.name}</h3>
+    `;
+
+    container.appendChild(div);
+  });
 }
 
-#text {
-  font-size: 40px;
-  color: brown;
-  transition: all 0.5s ease;
-}
+loadAttractions();
 
-/* MAIN */
-#main {
-  display: none;
-}
+// FILTER
+function filterPlaces() {
+  const interest = document.getElementById("interest").value;
+  const region = document.getElementById("region").value;
 
-.section {
-  height: 100vh;
-  padding: 20px;
-}
+  const filtered = places.filter(p =>
+    p.tags.includes(interest) && p.region === region
+  );
 
-/* CARDS */
-.scroll {
-  display: flex;
-  overflow-x: auto;
-}
+  const output = document.getElementById("results");
 
-.card {
-  min-width: 250px;
-  margin: 10px;
-}
-
-.card img {
-  width: 100%;
-  height: 150px;
-  object-fit: cover;
-}
   if (filtered.length === 0) {
     output.innerHTML = "No destinations found";
   } else {
