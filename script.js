@@ -1,76 +1,56 @@
-
-// INTRO TEXT
-const texts = ["नमस्ते","নমস্কার","வணக்கம்","ನಮಸ್ಕಾರ","ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ"];
-let i = 0;
-
-setInterval(() => {
-  i = (i + 1) % texts.length;
-  document.getElementById("text").innerText = texts[i];
-}, 1200);
-
-// INTRO HIDE
-setTimeout(() => {
-  document.getElementById("intro").style.transform = "translateY(-100%)";
-  document.getElementById("intro").style.transition = "1s";
-
-  setTimeout(() => {
-    document.getElementById("main").style.display = "block";
-    document.body.style.overflow = "auto";
-  }, 1000);
-}, 5000);
-
-// DATA
-const places = [
-  {
-    name: "Goa",
-    region: "South",
-    tags: ["Beaches"],
-    img: "https://source.unsplash.com/400x300/?goa,beach"
-  },
-  {
-    name: "Manali",
-    region: "North",
-    tags: ["Mountains"],
-    img: "https://source.unsplash.com/400x300/?manali,snow"
-  },
-  {
-    name: "Varanasi",
-    region: "North",
-    tags: ["Spiritual"],
-    img: "https://source.unsplash.com/400x300/?varanasi,ghats"
-  }
-];
-
-// LOAD ATTRACTIONS
-function loadAttractions() {
-  const container = document.getElementById("attractions");
-
-  places.forEach(p => {
-    const div = document.createElement("div");
-    div.className = "card";
-
-    div.innerHTML = `
-      <img src="${p.img}">
-      <h3>${p.name}</h3>
-    `;
-
-    container.appendChild(div);
-  });
+body {
+  margin: 0;
+  font-family: Arial;
+  overflow: hidden;
 }
 
-loadAttractions();
+/* INTRO */
+#intro {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #f5d6a1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  transition: transform 1s ease-in-out;
+}
 
-// FILTER
-function filterPlaces() {
-  const interest = document.getElementById("interest").value;
-  const region = document.getElementById("region").value;
+#text {
+  font-size: 40px;
+  color: brown;
+  transition: all 0.5s ease;
+}
 
-  const filtered = places.filter(p =>
-    p.tags.includes(interest) && p.region === region
-  );
+/* MAIN */
+#main {
+  display: none;
+}
 
-  const output = document.getElementById("results");
+.section {
+  height: 100vh;
+  padding: 20px;
+}
 
+/* CARDS */
+.scroll {
+  display: flex;
+  overflow-x: auto;
+}
+
+.card {
+  min-width: 250px;
+  margin: 10px;
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
   if (filtered.length === 0) {
     output.innerHTML = "No destinations found";
   } else {
