@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "Humayun's Tomb",
+    "short": "A grand Mughal-era tomb known for its symmetrical gardens and elegant architecture.",
+    "long": "Humayun’s Tomb stands as one of the earliest examples of Mughal architecture in India, setting the foundation for later masterpieces. The structure is surrounded by well-planned gardens divided into geometric sections, creating a sense of balance and order. As you walk through the pathways, the symmetry becomes more noticeable from every angle. The red sandstone combined with white marble gives the monument a striking yet calm appearance. The space feels open and peaceful, allowing visitors to explore without rush. It’s not overly crowded compared to other landmarks, which adds to its charm. The monument carries a quiet historical presence rather than a loud visual impact. Sitting in the gardens, you can observe the structure slowly instead of just passing by. It feels less like a tourist spot and more like a place to pause and reflect.",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Red Fort",
+    "short": "A massive historic fort symbolizing India's rich past and architectural strength.",
+    "long": "The Red Fort immediately stands out with its massive red sandstone walls stretching across a large area. Entering through its gates feels like stepping into a different time, where courtyards and halls open up one after another. The structure reflects power and planning, with spaces designed for both administration and living. As you walk inside, you can imagine how the fort once functioned as a center of authority. The scale of the place makes it impressive, but it doesn’t feel overwhelming. The pathways guide you naturally through the complex. Even with crowds, certain corners feel calm and less chaotic. The fort carries a strong identity that connects deeply with India’s history. It’s not just about the structure — it’s about what it represents.",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Lotus Temple",
+    "short": "A modern architectural marvel shaped like a lotus, known for its peaceful atmosphere.",
+    "long": "The Lotus Temple stands out instantly because of its unique design, resembling a blooming flower. The white structure looks clean and minimal, creating a calm visual impact. Unlike traditional religious places, the atmosphere here is silent and meditative. Visitors sit quietly inside, regardless of their background, which adds to the sense of openness. The surrounding gardens enhance the peaceful environment. The structure feels modern yet spiritual at the same time. Light entering the hall creates a soft and soothing effect. It’s not crowded in a chaotic way — people naturally maintain silence. The simplicity of the place is what makes it powerful. It’s less about rituals and more about stillness.",
+    "tags": ["Spiritual", "Scenic"]
+  },
+  {
+    "name": "Diu Fort",
+    "short": "A coastal fort offering sea views and a mix of history and open landscapes.",
+    "long": "Diu Fort sits right by the sea, giving it a completely different feel compared to inland forts. The sound of waves and open horizons add to the experience as you walk along its walls. The structure itself is strong yet simple, built for defense rather than decoration. Pathways inside the fort allow you to explore slowly while enjoying the surrounding views. Cannons facing the sea remind you of its past purpose. The breeze makes the entire place feel refreshing. It’s not crowded, which adds to its relaxed vibe. The combination of history and coastal scenery makes it unique. You don’t just explore the fort — you enjoy the environment around it.",
+    "tags": ["Historical", "Beaches", "Scenic"]
+  },
+  {
+    "name": "Minicoy Island",
+    "short": "A peaceful island known for clear waters, beaches, and relaxed surroundings.",
+    "long": "Minicoy Island feels remote and calm, far away from busy tourist spots. The beaches are clean and less crowded, making the experience more personal. The water is clear, allowing you to see shades of blue changing throughout the day. Life here moves slowly, without any rush or pressure. The lighthouse adds a simple yet iconic presence to the island. Walking along the shore feels easy and relaxing. The environment is quiet, with very little noise apart from the sea. It’s not about activities — it’s about being present in the moment. The simplicity of the island is what makes it special.",
+    "tags": ["Beaches", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Kavaratti Island",
+    "short": "A scenic island destination with lagoons, beaches, and peaceful coastal views.",
+    "long": "Kavaratti Island offers a calm and balanced coastal experience. The lagoons are shallow and clear, creating beautiful shades of blue and green. The beaches are clean and open, making it easy to relax without distractions. The environment feels organized yet natural. Walking along the coast gives you uninterrupted views of the sea. Water activities are available but not overwhelming. The pace of life is slow, allowing you to truly unwind. The island feels welcoming and easy to explore. It’s not about luxury — it’s about simplicity and beauty.",
+    "tags": ["Beaches", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Havelock Island",
+    "short": "A popular island known for white sand beaches and clear blue waters.",
+    "long": "Havelock Island is known for its beautiful beaches that feel clean and open. The sand is soft, and the water has a bright blue color that stands out instantly. Radhanagar Beach is one of the highlights, offering wide space and stunning views. The environment is peaceful, even with visitors around. Water activities like snorkeling add to the experience. The sunsets here are calm and visually pleasing. Walking along the shore feels effortless. The island has a relaxed vibe that makes it easy to disconnect. It’s a place where you slow down naturally.",
+    "tags": ["Beaches", "Scenic"]
+  },
+  {
+    "name": "Ross Island",
+    "img": "",
+    "short": "A historic island with ruins surrounded by greenery and coastal views.",
+    "long": "Ross Island feels like a mix of nature and history coming together. Old structures and ruins are slowly being taken over by trees and roots, creating a unique visual. Walking through the island feels like exploring something abandoned yet alive. The greenery adds depth to the experience. The sea surrounding the island keeps the atmosphere fresh. It’s not crowded, which makes exploration more enjoyable. Every corner reveals something different. The place feels quiet and slightly mysterious. It’s less about sightseeing and more about discovering.",
+    "tags": ["Historical", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Cellular Jail",
+    "img": "",
+    "short": "A historic prison known for its strong emotional and historical significance.",
+    "long": "Cellular Jail carries a heavy and emotional presence that you feel immediately. The structure is simple but powerful, designed with long corridors and multiple wings. Walking through the cells gives a sense of what life might have been like here. The silence adds to the impact. The museum inside provides more context, helping you understand its importance. The evening light and sound show brings the story to life in a deeper way. It’s not visually grand, but emotionally strong. The place makes you pause and reflect. It stays with you even after leaving.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical"]
+  },
+  {
+    "name": "Kargil",
+    "img": "",
+    "short": "A rugged Himalayan town known for its dramatic landscapes and historical significance.",
+    "long": "Kargil feels raw and grounded, surrounded by steep mountains and wide valleys that stretch quietly into the distance.\n\nThe terrain here is not soft or green like typical hill stations, but rugged and sharp, giving it a strong and powerful presence.\n\nThe silence in the region stands out, broken only by wind or the occasional movement of vehicles along narrow roads.\n\nThe town itself is simple, with life moving at a steady and practical pace.\n\nThere’s a sense of resilience in the atmosphere, shaped by both geography and history.\n\nThe mountains around Kargil change color throughout the day, especially during sunrise and sunset.\n\nThe roads leading here are long and scenic, making the journey just as important as the destination.\n\nIt’s not a place filled with attractions, but one that leaves an impact through its environment.\n\nThe openness of the landscape gives you space to think and observe.\n\nKargil feels less like a tourist spot and more like an experience of raw nature.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Pangong Tso",
+    "img": "",
+    "short": "A high-altitude lake famous for its changing colors and stunning mountain backdrop.",
+    "long": "Pangong Tso immediately catches your attention with its unreal shades of blue that shift throughout the day.\n\nThe lake stretches far into the horizon, creating a sense of endless space that feels both calming and overwhelming.\n\nSurrounded by barren mountains, the contrast between water and land makes the landscape even more striking.\n\nThe air is thin and crisp, adding to the high-altitude experience.\n\nThere’s very little noise, which makes the environment feel peaceful and untouched.\n\nClouds often reflect on the water, changing how the lake looks every few minutes.\n\nThe simplicity of the place is what makes it so powerful.\n\nYou don’t do much here — you just sit, observe, and take it in.\n\nSunrise and sunset completely transform the colors of the lake.\n\nPangong Tso feels less like a destination and more like a visual experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Khardung La",
+    "img": "",
+    "short": "One of the highest motorable passes offering extreme altitude and breathtaking views.",
+    "long": "Khardung La feels intense from the moment you start ascending towards it.\n\nThe roads are steep and winding, cutting through mountains that feel vast and endless.\n\nAs you go higher, the air becomes thinner, and every breath feels slightly heavier.\n\nThe environment becomes more rugged, with snow and rocks dominating the landscape.\n\nReaching the top gives a strong sense of achievement.\n\nThe view from the pass is wide and dramatic, stretching across multiple mountain ranges.\n\nThe wind at the top is cold and constant, adding to the raw experience.\n\nIt’s not a place to stay long, but it leaves a strong impression.\n\nThe journey itself is the highlight, not just the destination.\n\nKhardung La feels powerful, challenging, and unforgettable.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic"]
+  },
+  {
+    "name": "Ladakh",
+    "img": "",
+    "short": "A high-altitude region known for its vast landscapes, monasteries, and unique terrain.",
+    "long": "Ladakh feels vast and open, with landscapes that look completely different from the rest of India.\n\nThe mountains here are dry and sharp, creating a dramatic and almost surreal environment.\n\nThere’s very little greenery, which makes the terrain feel raw and powerful.\n\nMonasteries sit quietly on hills, adding a spiritual element to the rugged surroundings.\n\nThe sky appears clearer and deeper, especially at night when stars are easily visible.\n\nThe roads are long and often challenging, making travel an adventure in itself.\n\nThe silence of the region stands out, giving you time to truly absorb the surroundings.\n\nEvery turn reveals a new landscape, from valleys to high passes.\n\nLife here feels simple and disconnected from fast-paced cities.\n\nLadakh is not just a place — it’s a completely different experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic", "Spiritual"]
+  },
+  {
+    "name": "Qutub Minar",
+    "img": "",
+    "short": "A towering historic monument known for its intricate carvings and architectural detail.",
+    "long": "Qutub Minar rises sharply into the sky, making it one of the most recognizable landmarks in Delhi.\n\nThe structure is tall and elegant, with layers of detailed carvings that become more noticeable as you look closely.\n\nThe red sandstone gives it a warm tone that changes slightly with sunlight.\n\nThe surrounding complex is open, allowing you to walk around and observe the monument from different angles.\n\nThere are smaller structures and ruins nearby that add depth to the experience.\n\nThe place feels balanced — not too crowded, yet lively enough to feel active.\n\nLooking up at the tower gives a sense of scale that’s hard to ignore.\n\nThe design feels both strong and artistic at the same time.\n\nIt’s not just about the height, but the details that make it stand out.\n\nQutub Minar leaves a quiet but lasting impression.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Kurukshetra",
+    "img": "",
+    "short": "A historic and spiritual destination deeply connected to ancient Indian traditions.",
+    "long": "Kurukshetra feels calm yet meaningful, with a presence that comes from its deep cultural roots.\n\nThe area is spread out, with open spaces and sites that hold symbolic importance.\n\nBrahma Sarovar is one of the key spots, where the water reflects the sky and surroundings beautifully.\n\nThe environment is peaceful, allowing visitors to move around without rush.\n\nThere’s a spiritual atmosphere, but it feels quiet rather than intense.\n\nTemples and smaller structures add to the overall experience.\n\nThe place encourages you to slow down and observe rather than just move quickly.\n\nIt’s not visually dramatic, but it carries depth in its meaning.\n\nEvenings bring a softer feel, especially near the water.\n\nKurukshetra feels more reflective than active.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Historical", "Scenic"]
+  },
+  {
+    "name": "Amber Fort",
+    "img": "",
+    "short": "A majestic hilltop fort known for its grand structure and scenic surroundings.",
+    "long": "Amber Fort stands on a hill, overlooking the surrounding landscape with a strong and commanding presence.\n\nThe entrance itself feels grand, leading you into courtyards and pathways that open one after another.\n\nThe architecture is detailed, with carvings and mirror work adding beauty to the structure.\n\nAs you move higher, the views become wider, showing lakes and hills around the fort.\n\nThe combination of natural surroundings and architecture makes the place visually rich.\n\nWalking through the fort feels like exploring different layers of space.\n\nEach section has its own character, from open courtyards to enclosed halls.\n\nThe light inside the fort changes throughout the day, adding depth to the experience.\n\nIt’s not just a monument — it’s a complete environment.\n\nAmber Fort feels both grand and immersive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Hawa Mahal",
+    "img": "",
+    "short": "A unique palace known for its honeycomb structure and intricate windows.",
+    "long": "Hawa Mahal stands out instantly with its distinctive façade made up of numerous small windows.\n\nThe structure looks delicate but is carefully designed for ventilation and airflow.\n\nFrom the outside, it feels like a decorative wall, but inside it opens into narrow passages and chambers.\n\nThe pink sandstone gives it a warm and vibrant appearance, especially in sunlight.\n\nThe design allows air to pass through, keeping the structure naturally cool.\n\nLooking up at the building reveals its detailed craftsmanship.\n\nThe surroundings are lively, adding contrast to the calm structure.\n\nIt’s not large in scale, but visually very striking.\n\nThe experience is more about observing than exploring deeply.\n\nHawa Mahal leaves a strong impression through its design alone.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Udaipur",
+    "img": "",
+    "short": "A scenic city known for its lakes, palaces, and calm atmosphere.",
+    "long": "Udaipur feels calm and elegant, with lakes forming the heart of the city.\n\nThe water reflects palaces and buildings, creating beautiful views throughout the day.\n\nCity Palace stands prominently, adding a sense of scale and history.\n\nThe narrow streets nearby feel lively but not overwhelming.\n\nBoat rides on the lake offer a different perspective of the surroundings.\n\nSunsets here are especially peaceful, with soft light over the water.\n\nThe pace of the city is slow, making it easy to relax.\n\nThere’s a balance between activity and calmness.\n\nThe overall environment feels clean and open.\n\nUdaipur feels like a place to unwind while enjoying scenic beauty.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Historical"]
+  },
+  {
+    "name": "Jaisalmer",
+    "img": "",
+    "short": "A desert city known for its golden fort and vast sand landscapes.",
+    "long": "Jaisalmer stands out with its golden-colored buildings that blend into the desert surroundings.\n\nThe fort rises above the city, giving it a strong and distinct identity.\n\nInside the fort, narrow lanes and houses create a lived-in experience.\n\nThe desert nearby adds a completely different dimension.\n\nSand dunes stretch endlessly, creating open and quiet landscapes.\n\nCamel rides and desert camps add to the experience.\n\nSunsets in the desert bring warm colors across the sand.\n\nThe city feels both lively and remote at the same time.\n\nThe architecture and environment feel connected.\n\nJaisalmer is more about atmosphere than just attractions.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Jodhpur",
+    "img": "",
+    "short": "A vibrant city known for its blue houses and massive hilltop fort.",
+    "long": "Jodhpur feels vibrant and full of character, especially with its blue-painted houses spread across the city.\n\nMehrangarh Fort rises above everything, giving a strong visual presence.\n\nThe fort itself is massive, with open courtyards and detailed interiors.\n\nFrom the top, the view of the blue city is wide and impressive.\n\nThe streets below are active, with markets and local life adding energy.\n\nThere’s a contrast between the calm fort and busy city below.\n\nThe colors of the buildings create a unique identity.\n\nSunlight enhances the brightness of the surroundings.\n\nIt’s a place that feels both historic and alive.\n\nJodhpur leaves a strong visual impression.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Pushkar",
+    "img": "",
+    "short": "A spiritual town centered around a sacred lake and vibrant local culture.",
+    "long": "Pushkar feels spiritual yet lively, with the lake acting as the center of the town.\n\nGhats surround the water, where people gather quietly or perform rituals.\n\nThe environment is calm near the lake, especially during mornings and evenings.\n\nThe streets nearby are filled with shops, cafes, and movement.\n\nThere’s a mix of tradition and modern influence.\n\nThe town feels compact and easy to explore.\n\nDuring festivals, the atmosphere becomes energetic and colorful.\n\nDespite the activity, there are pockets of quiet space.\n\nThe lake reflections add to the scenic beauty.\n\nPushkar feels balanced between calmness and liveliness.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Festivals", "Scenic"]
+  },
+{
+    "name": "Taj Mahal",
+    "img": "",
+    "short": "A world-famous white marble monument known for its beauty and symmetry.",
+    "long": "The Taj Mahal stands as one of the most iconic structures in the world, known for its perfect symmetry and white marble design.\n\nThe monument looks different throughout the day, changing shades with the light.\n\nThe surrounding gardens are well-planned, adding balance and openness to the space.\n\nAs you walk closer, the details in the marble become more visible.\n\nThe reflection in the water adds another layer to the view.\n\nDespite the crowd, the monument still manages to feel calm.\n\nThe scale is impressive, yet the design feels soft and elegant.\n\nEvery angle offers a slightly different perspective.\n\nIt’s not just a monument — it’s an experience of design and space.\n\nThe Taj Mahal leaves a lasting visual impression.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Varanasi",
+    "img": "",
+    "short": "An ancient city known for its ghats, rituals, and spiritual atmosphere.",
+    "long": "Varanasi feels intense and alive, with activity happening at every moment along the ghats.\n\nThe Ganga flows steadily, becoming the center of everything in the city.\n\nPeople gather for rituals, prayers, and daily life along the steps.\n\nThe environment is crowded, yet it carries a strong sense of purpose.\n\nThe evening Ganga Aarti creates a powerful visual and emotional experience.\n\nNarrow streets behind the ghats are filled with movement and local life.\n\nThe city doesn’t slow down — it keeps going constantly.\n\nThere’s a mix of calm moments and chaotic energy.\n\nIt’s not easy to describe — it’s something you experience.\n\nVaranasi feels deep, raw, and unforgettable.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Historical", "Scenic"]
+  },
+  {
+    "name": "Ranthambore National Park",
+    "img": "",
+    "short": "A wildlife reserve known for tiger sightings and dense forest landscapes.",
+    "long": "Ranthambore offers a mix of wildlife and rugged natural terrain that feels both exciting and calm.\n\nThe forest is made up of dry vegetation, lakes, and open grasslands.\n\nSafari drives take you deep into the park, building anticipation with every turn.\n\nSpotting a tiger is the highlight, but even the journey feels engaging.\n\nOld ruins inside the park add a unique historical touch.\n\nThe environment changes throughout the day with light and shadow.\n\nEarly mornings feel fresh and quiet.\n\nThe experience is not rushed — it unfolds slowly.\n\nEvery visit feels slightly different.\n\nRanthambore is about patience and observation.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Adventure", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Ayodhya",
+    "img": "",
+    "short": "A sacred city known for its temples and deep spiritual significance.",
+    "long": "Ayodhya carries a strong spiritual presence that shapes the entire atmosphere of the city.\n\nTemples are spread across the area, each adding to the overall experience.\n\nThe environment feels active yet focused on devotion.\n\nPeople visit for religious purposes, giving the city a sense of direction.\n\nThe riverbanks add calmness to the surroundings.\n\nThe pace of the city is steady, not rushed.\n\nThere’s a sense of history connected to its identity.\n\nThe architecture is simple but meaningful.\n\nEven with crowds, the atmosphere feels organized.\n\nAyodhya feels rooted in tradition and belief.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Historical"]
+  },
+  {
+    "name": "Mathura",
+    "img": "",
+    "short": "A spiritual city known for temples, festivals, and cultural energy.",
+    "long": "Mathura feels vibrant and deeply connected to tradition, especially through its temples and festivals.\n\nThe streets are active, filled with movement and local life.\n\nTemples across the city create a strong spiritual environment.\n\nDuring festivals like Holi, the city becomes colorful and energetic.\n\nThe atmosphere shifts between calm devotion and lively celebration.\n\nThe architecture is simple but meaningful.\n\nThere’s a sense of history present in everyday life.\n\nThe city feels dense but full of character.\n\nIt’s not quiet — it’s expressive and active.\n\nMathura is more about experience than visuals.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Festivals", "Historical"]
+  },
+{
+    "name": "Munnar",
+    "img": "",
+    "short": "A serene hill station known for tea plantations and misty mountain views.",
+    "long": "Munnar feels calm and refreshing, with endless stretches of tea plantations covering the hills.\n\nThe greenery here is smooth and continuous, creating a soothing visual effect.\n\nMist often rolls across the hills, changing the scenery throughout the day.\n\nThe roads wind through plantations, making even simple drives enjoyable.\n\nThe air feels clean and cool, adding to the relaxed atmosphere.\n\nWaterfalls and small viewpoints appear along the way.\n\nThe environment is quiet, without much noise or rush.\n\nSunrise brings soft light across the hills.\n\nIt’s easy to slow down and just observe the surroundings.\n\nMunnar feels peaceful and naturally beautiful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Alleppey",
+    "img": "",
+    "short": "A scenic destination famous for backwaters, houseboats, and calm waterways.",
+    "long": "Alleppey is known for its backwaters that create a network of calm and flowing water channels.\n\nHouseboats move slowly through these waters, offering a relaxed and steady experience.\n\nThe surroundings include palm trees, small villages, and open skies.\n\nLife along the water feels simple and unhurried.\n\nThe reflections on the water change throughout the day.\n\nSunsets here are soft and peaceful.\n\nThere’s very little noise, making it easy to unwind.\n\nThe movement of water adds a constant rhythm.\n\nIt’s not about activities — it’s about slowing down.\n\nAlleppey feels calm and immersive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological"]
+  },
+  {
+    "name": "Ooty",
+    "img": "",
+    "short": "A popular hill station known for its cool climate and scenic landscapes.",
+    "long": "Ooty offers a mix of greenery, hills, and a comfortable climate that makes it easy to explore.\n\nThe landscape includes tea gardens, forests, and open viewpoints.\n\nOoty Lake adds a calm center to the town.\n\nThe toy train ride adds a nostalgic charm to the experience.\n\nThe town itself is lively but not overwhelming.\n\nWeather remains cool throughout most of the year.\n\nWalking through the area feels pleasant and relaxed.\n\nSunsets bring soft colors across the hills.\n\nThere’s a balance between activity and calmness.\n\nOoty feels welcoming and easygoing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Kodaikanal",
+    "img": "",
+    "short": "A peaceful hill destination known for lakes, forests, and cool weather.",
+    "long": "Kodaikanal feels quiet and slightly more relaxed compared to other hill stations.\n\nThe lake acts as the center, with activities like boating and walking around it.\n\nThe surrounding forests add depth and shade to the environment.\n\nMist often covers the hills, creating a soft and changing landscape.\n\nThe roads are less crowded, making travel smooth and enjoyable.\n\nViewpoints offer wide and open scenery.\n\nThe air feels fresh and cool throughout the day.\n\nIt’s easy to spend time without rushing.\n\nThe atmosphere feels calm and personal.\n\nKodaikanal is about simplicity and peace.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  }, 
+{
+    "name": "Rameshwaram",
+    "img": "",
+    "short": "A sacred coastal town known for its temple and serene seaside atmosphere.",
+    "long": "Rameshwaram feels calm and spiritual, surrounded by the sea on all sides.\n\nThe Ramanathaswamy Temple stands at the center, known for its long corridors and detailed pillars.\n\nWalking through these corridors creates a rhythmic and peaceful experience.\n\nThe town itself is quiet, with life moving at a slow and steady pace.\n\nThe nearby beaches add openness and fresh air to the environment.\n\nThe sound of waves blends naturally with the calm surroundings.\n\nSunrise views near the coast feel soft and refreshing.\n\nThere’s a balance between spiritual activity and natural beauty.\n\nThe atmosphere encourages you to slow down and observe.\n\nRameshwaram feels simple, peaceful, and deeply connected to its surroundings.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Beaches", "Scenic"]
+  },
+  {
+    "name": "Madurai",
+    "img": "",
+    "short": "A vibrant temple city known for its architecture and cultural energy.",
+    "long": "Madurai feels active and deeply rooted in tradition, with the Meenakshi Temple as its centerpiece.\n\nThe temple towers rise above the city, covered in colorful carvings.\n\nInside, the structure is vast, with halls and corridors that keep unfolding.\n\nThe atmosphere is lively, with constant movement and devotion.\n\nThe streets around the temple are busy, filled with shops and local life.\n\nThere’s a mix of chaos and order that defines the city.\n\nThe sounds, colors, and activity create a strong sensory experience.\n\nDespite the crowd, there are moments of calm inside the temple.\n\nThe city doesn’t slow down, but it feels meaningful.\n\nMadurai is more about energy and culture than quiet exploration.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Historical"]
+  },
+  {
+    "name": "Mahabalipuram",
+    "img": "",
+    "short": "A coastal heritage town known for rock-cut temples and ancient architecture.",
+    "long": "Mahabalipuram feels open and artistic, with structures carved directly into stone.\n\nThe Shore Temple stands near the sea, creating a strong visual contrast between land and water.\n\nRock-cut sculptures and monuments are spread across the area.\n\nEach structure has its own design and character.\n\nWalking around feels like exploring an outdoor museum.\n\nThe sea breeze adds freshness to the experience.\n\nThe environment is not crowded, making it easy to explore slowly.\n\nSunlight highlights the textures of the stone carvings.\n\nThe place feels both historical and scenic.\n\nMahabalipuram is about detail, space, and quiet exploration.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Beaches", "Scenic"]
+  },
+  {
+    "name": "Hampi",
+    "img": "",
+    "short": "A vast heritage site known for ruins, temples, and unique rocky landscapes.",
+    "long": "Hampi feels vast and spread out, with ruins scattered across a wide landscape.\n\nThe terrain is filled with large boulders, creating a unique and rugged environment.\n\nTemples and structures appear between rocks and open spaces.\n\nWalking through Hampi feels like discovering something at every step.\n\nThe scale of the place makes it impressive without being overwhelming.\n\nSunrise and sunset change how the entire area looks.\n\nThe silence adds to the experience, especially in less crowded areas.\n\nThe combination of nature and ruins feels natural.\n\nIt’s not just about monuments — it’s about the space between them.\n\nHampi feels immersive and timeless.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Coorg",
+    "img": "",
+    "short": "A lush hill destination known for coffee plantations and natural beauty.",
+    "long": "Coorg feels green and refreshing, with forests and plantations covering the landscape.\n\nThe hills are smooth and continuous, creating a soothing visual effect.\n\nCoffee plantations add a distinct identity to the region.\n\nThe air feels cool and clean, especially in the mornings.\n\nWaterfalls and small streams appear throughout the area.\n\nThe roads are quiet, making drives enjoyable.\n\nMist often covers the hills, changing the scenery.\n\nThe environment is peaceful and less crowded.\n\nIt’s easy to relax and spend time outdoors.\n\nCoorg feels calm, natural, and welcoming.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Ecological", "Scenic"]
+  },
+{
+    "name": "Mysore",
+    "img": "",
+    "short": "A cultural city known for its grand palace and rich heritage atmosphere.",
+    "long": "Mysore feels organized and elegant, with a strong cultural identity visible throughout the city.\n\nThe Mysore Palace stands at the center, showcasing detailed architecture and large open spaces.\n\nThe palace looks especially striking when illuminated in the evening.\n\nThe city itself is less chaotic compared to larger metros.\n\nWide roads and planned areas make it easy to explore.\n\nMarkets and local areas add life without overwhelming the surroundings.\n\nThere’s a sense of balance between tradition and modern life.\n\nThe atmosphere feels calm yet active.\n\nEvery part of the city seems well connected.\n\nMysore offers a structured and pleasant experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Bandipur National Park",
+    "img": "",
+    "short": "A forest reserve known for wildlife, greenery, and safari experiences.",
+    "long": "Bandipur offers a dense and green forest environment that feels both calm and alive.\n\nThe park is home to a variety of wildlife, making safaris an exciting experience.\n\nThe roads inside the forest are quiet, surrounded by tall trees.\n\nEarly mornings bring a fresh and peaceful atmosphere.\n\nAnimal sightings add unpredictability to the visit.\n\nThe forest changes slightly with light and weather.\n\nThe environment feels untouched and natural.\n\nThere’s very little noise apart from nature itself.\n\nThe experience is slow and immersive.\n\nBandipur is about patience, observation, and nature.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Dudhsagar Falls",
+    "img": "",
+    "short": "A powerful waterfall known for its height and milky white cascading water.",
+    "long": "Dudhsagar Falls stands tall and dramatic, with water cascading down in multiple layers.\n\nThe flow looks strong and continuous, especially during monsoon season.\n\nThe surrounding greenery enhances the visual impact of the waterfall.\n\nReaching the falls involves a journey through forested areas.\n\nThe sound of the water can be heard from a distance.\n\nThe mist created by the fall adds to the experience.\n\nThe area feels raw and less commercial.\n\nStanding near the falls gives a sense of scale and power.\n\nThe environment is both refreshing and intense.\n\nDudhsagar is about nature in its strongest form.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological", "Adventure"]
+  },
+  {
+    "name": "Old Goa",
+    "img": "",
+    "short": "A historic area known for churches and colonial-era architecture.",
+    "long": "Old Goa feels calm and structured, with large churches and open spaces defining the area.\n\nThe architecture reflects a different style compared to most Indian cities.\n\nThe Basilica and nearby churches stand tall with clean white exteriors.\n\nThe interiors feel spacious and quiet.\n\nThe area is less crowded, allowing slow exploration.\n\nWalking between structures feels easy and relaxed.\n\nThe surroundings are well maintained and open.\n\nThere’s a sense of stillness compared to other parts of Goa.\n\nThe place feels more historical than lively.\n\nOld Goa offers a peaceful and reflective experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Baga Beach",
+    "img": "",
+    "short": "A lively beach destination known for nightlife, water activities, and crowds.",
+    "long": "Baga Beach feels energetic and active, with constant movement throughout the day.\n\nThe beach is lined with shacks, cafes, and activity zones.\n\nWater sports add excitement and variety.\n\nThe sand stretches wide, accommodating large crowds.\n\nThe atmosphere becomes more vibrant as the evening approaches.\n\nMusic and lights create a lively nightlife experience.\n\nIt’s not a quiet beach — it’s social and dynamic.\n\nPeople come here to enjoy, relax, and engage in activities.\n\nThe energy of the place stays consistent.\n\nBaga is about fun, movement, and interaction.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Beaches", "Adventure", "Scenic"]
+  },
+{
+    "name": "Ajanta Caves",
+    "img": "",
+    "short": "Ancient rock-cut caves known for detailed paintings and historic architecture.",
+    "long": "Ajanta Caves are carved into a curved rock face, creating a unique and structured layout.\n\nEach cave opens into halls and chambers with intricate carvings and paintings.\n\nThe artwork inside feels detailed and expressive, even after so many years.\n\nWalking from one cave to another gives a sense of continuity.\n\nThe surrounding landscape adds to the overall experience.\n\nThe place feels quiet, allowing you to observe details closely.\n\nLight enters the caves softly, highlighting textures.\n\nIt’s not just about the structures but the art within them.\n\nThe environment encourages slow exploration.\n\nAjanta feels immersive and deeply historical.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Western Ghats",
+    "img": "",
+    "short": "A long mountain range known for biodiversity, greenery, and scenic landscapes.",
+    "long": "The Western Ghats stretch across multiple states, offering a wide variety of landscapes.\n\nThe region is covered in dense forests, hills, and valleys.\n\nThe greenery feels continuous and refreshing.\n\nMany rivers and waterfalls originate from this region.\n\nThe biodiversity here is rich and diverse.\n\nMist and clouds often move across the hills.\n\nThe environment feels alive and constantly changing.\n\nThe area supports both wildlife and plant life.\n\nTraveling through the Ghats feels immersive.\n\nIt’s a large-scale natural experience rather than a single spot.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Mumbai",
+    "img": "",
+    "short": "A fast-paced coastal city known for its skyline, culture, and energy.",
+    "long": "Mumbai feels constantly active, with movement happening at all times.\n\nThe city combines modern buildings with older structures.\n\nThe coastline adds openness to the otherwise dense environment.\n\nMarine Drive offers a calm contrast to the busy streets.\n\nThe local trains and roads reflect the city’s pace.\n\nMarkets, cafes, and public spaces stay active throughout the day.\n\nThere’s a mix of cultures visible in daily life.\n\nThe skyline changes as you move across the city.\n\nDespite the rush, there are pockets of calm.\n\nMumbai feels dynamic, intense, and full of life.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic"]
+  },
+  {
+    "name": "Statue of Unity",
+    "img": "",
+    "short": "A massive statue surrounded by open landscapes and modern infrastructure.",
+    "long": "The Statue of Unity stands tall as one of the largest statues in the world.\n\nThe structure is massive, making it visible from a distance.\n\nThe surrounding area is well-developed with open spaces.\n\nThe river nearby adds to the scenic environment.\n\nViewing points allow different perspectives of the statue.\n\nThe design is simple but powerful in scale.\n\nThe area feels organized and spacious.\n\nWalking around gives a sense of its size.\n\nThe experience is more about scale than detail.\n\nIt leaves a strong visual impact.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic"]
+  },
+  {
+    "name": "Rann of Kutch",
+    "img": "",
+    "short": "A vast white desert known for its unique landscape and open horizons.",
+    "long": "The Rann of Kutch feels completely open, with white salt plains stretching endlessly.\n\nThe ground reflects light, creating a bright and unique visual effect.\n\nThe horizon looks distant and uninterrupted.\n\nThe environment feels quiet and isolated.\n\nSunrise and sunset completely change the colors of the land.\n\nDuring the festival season, the area becomes lively.\n\nDespite the openness, the place feels immersive.\n\nWalking across the flat land feels unusual.\n\nThe sky appears wider than usual here.\n\nRann of Kutch is about scale, space, and uniqueness.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Festivals"]
+  }, 
+{
+    "name": "Gir National Park",
+    "img": "",
+    "short": "A famous wildlife sanctuary known for Asiatic lions and dry forest landscapes.",
+    "long": "Gir National Park offers a unique wildlife experience with its dry forest and open grassland terrain.\n\nThe landscape feels raw and slightly rugged compared to dense jungles.\n\nSafari drives take you deep into the forest, building anticipation at every turn.\n\nThe possibility of spotting Asiatic lions makes the experience exciting.\n\nThe environment is quiet, with natural sounds dominating the space.\n\nThe vegetation changes across the park, adding variation.\n\nEarly mornings feel fresh and calm.\n\nThe experience depends on patience and observation.\n\nIt’s not rushed — it unfolds slowly.\n\nGir feels wild, natural, and immersive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Somnath",
+    "img": "",
+    "short": "A sacred coastal temple known for its spiritual atmosphere and sea views.",
+    "long": "Somnath Temple stands close to the sea, creating a powerful combination of spirituality and nature.\n\nThe sound of waves adds a calming background to the experience.\n\nThe temple structure feels strong and well-defined.\n\nThe open surroundings make the place feel spacious.\n\nThe environment is active but not chaotic.\n\nSunset views near the temple are especially peaceful.\n\nThe coastal setting enhances the overall atmosphere.\n\nThere’s a sense of calmness despite the crowd.\n\nThe place encourages quiet observation.\n\nSomnath feels balanced between devotion and natural beauty.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Beaches", "Scenic"]
+  },
+  {
+    "name": "Dwarka",
+    "img": "",
+    "short": "A spiritual city known for its temples and coastal setting.",
+    "long": "Dwarka carries a strong spiritual identity, with temples forming the core of the city.\n\nThe Dwarkadhish Temple stands prominently, attracting visitors throughout the day.\n\nThe surroundings feel organized and focused on devotion.\n\nThe coastal location adds openness to the environment.\n\nThe streets are active but manageable.\n\nThe temple area feels structured and purposeful.\n\nThere’s a mix of calmness and movement.\n\nThe sea nearby adds a refreshing element.\n\nThe experience is simple but meaningful.\n\nDwarka feels rooted in tradition and belief.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Scenic"]
+  },
+  {
+    "name": "Darjeeling",
+    "img": "",
+    "short": "A scenic hill town known for tea gardens and mountain views.",
+    "long": "Darjeeling offers a mix of greenery, hills, and cool weather that creates a refreshing environment.\n\nTea gardens spread across the slopes, giving the area a distinct look.\n\nThe toy train adds a nostalgic element to the experience.\n\nThe town itself feels lively yet not overwhelming.\n\nViews of distant mountains add depth to the scenery.\n\nThe air feels crisp and clean.\n\nWalking through the town feels relaxed.\n\nSunrise views bring soft light across the hills.\n\nThe pace is steady and comfortable.\n\nDarjeeling feels scenic, calm, and welcoming.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Kolkata",
+    "img": "",
+    "short": "A cultural city known for its heritage, streets, and lively atmosphere.",
+    "long": "Kolkata feels dense and full of character, with a strong cultural presence throughout the city.\n\nOld buildings and colonial structures stand alongside busy streets.\n\nThe city has a unique rhythm, slower yet constantly active.\n\nMarkets, trams, and public spaces create a distinct identity.\n\nThere’s a mix of history and everyday life in every corner.\n\nThe streets feel crowded but organized in their own way.\n\nFood, art, and culture play a big role in the experience.\n\nEven with chaos, there’s a sense of familiarity.\n\nThe city feels expressive and alive.\n\nKolkata is about depth, culture, and character.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+{
+    "name": "Sundarbans",
+    "img": "",
+    "short": "A vast mangrove forest known for unique ecosystems and wildlife.",
+    "long": "Sundarbans feels wild and complex, made up of waterways, dense mangroves, and shifting land.\n\nThe landscape is not fixed, constantly changing with tides and currents.\n\nBoat rides are the main way to explore, moving through narrow channels.\n\nThe environment feels quiet but full of hidden activity.\n\nWildlife exists here in a subtle and unpredictable way.\n\nThe dense forest creates a sense of mystery.\n\nThe air feels humid and heavy.\n\nIt’s not a typical scenic place — it’s immersive and raw.\n\nEvery turn feels uncertain and different.\n\nSundarbans is about nature in its most untamed form.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Kalimpong",
+    "img": "",
+    "short": "A quiet hill town known for scenic views and relaxed surroundings.",
+    "long": "Kalimpong feels calm and less crowded compared to nearby hill stations.\n\nThe town sits on hills, offering wide views of valleys and distant mountains.\n\nThe environment is peaceful, with less noise and rush.\n\nSmall roads and viewpoints add to the experience.\n\nThe air feels fresh and cool.\n\nThe pace of life is slow and comfortable.\n\nFlowers and greenery are visible throughout the area.\n\nWalking around feels easy and relaxed.\n\nThe place doesn’t try to impress — it stays simple.\n\nKalimpong is about quiet beauty and calmness.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Puri",
+    "img": "",
+    "short": "A coastal city known for its temple, beach, and spiritual atmosphere.",
+    "long": "Puri blends spirituality and coastal life into a single experience.\n\nThe Jagannath Temple forms the spiritual core of the city.\n\nThe nearby beach adds openness and movement.\n\nWaves create a constant rhythm along the shore.\n\nThe town feels active, especially near the temple.\n\nMarkets and streets are lively and full of energy.\n\nDespite the crowd, there are calm moments near the sea.\n\nThe combination of devotion and nature feels balanced.\n\nSunrise views at the beach are peaceful.\n\nPuri feels both spiritual and lively.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Beaches", "Festivals", "Scenic"]
+  },
+  {
+    "name": "Konark Temple",
+    "img": "",
+    "short": "A historic temple known for its detailed stone carvings and unique structure.",
+    "long": "Konark Temple stands out with its massive structure designed like a chariot.\n\nThe carvings on the walls are detailed and expressive.\n\nEach section of the temple shows a different aspect of craftsmanship.\n\nThe structure feels strong and artistic at the same time.\n\nWalking around reveals new details at every step.\n\nThe open surroundings allow clear views of the monument.\n\nThe place feels less crowded, making exploration easier.\n\nSunlight enhances the texture of the stone.\n\nIt’s not just a temple — it’s a piece of art.\n\nKonark feels historical, detailed, and visually rich.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Chilika Lake",
+    "img": "",
+    "short": "A large coastal lagoon known for birds, water views, and natural beauty.",
+    "long": "Chilika Lake feels wide and open, with water stretching across large distances.\n\nThe lake changes appearance depending on light and weather.\n\nBoat rides allow you to explore different parts of the lagoon.\n\nBirdlife adds movement and activity to the environment.\n\nThe surroundings feel calm and less crowded.\n\nThe air is fresh, especially near the water.\n\nSunsets create soft reflections across the lake.\n\nThe place feels peaceful and expansive.\n\nIt’s not about speed — it’s about slow exploration.\n\nChilika feels natural, open, and relaxing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Ecological", "Scenic", "Wildlife"]
+  }, 
+{
+    "name": "Simlipal National Park",
+    "img": "",
+    "short": "A dense forest reserve known for waterfalls, wildlife, and natural landscapes.",
+    "long": "Simlipal feels deep and untouched, with thick forests covering most of the landscape.\n\nThe area includes waterfalls, rivers, and wide forest stretches.\n\nThe greenery feels dense and immersive.\n\nWildlife exists here quietly, adding a sense of unpredictability.\n\nThe forest roads are less crowded, making exploration peaceful.\n\nThe sound of nature dominates the environment.\n\nWaterfalls inside the park add movement and freshness.\n\nThe atmosphere feels slightly wild and raw.\n\nIt’s not heavily commercialized, keeping it authentic.\n\nSimlipal is about nature in its pure and quiet form.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Kaziranga National Park",
+    "img": "",
+    "short": "A famous wildlife park known for one-horned rhinos and vast grasslands.",
+    "long": "Kaziranga offers a wide and open landscape filled with tall grasslands and wetlands.\n\nThe terrain feels expansive, allowing clear views across the park.\n\nSafari rides take you through different zones of the reserve.\n\nThe chance to spot one-horned rhinos makes the experience unique.\n\nThe environment feels active with wildlife movement.\n\nThe greenery changes with seasons, adding variation.\n\nEarly morning safaris feel calm and refreshing.\n\nThe park has a natural rhythm that unfolds slowly.\n\nIt’s not rushed — it requires patience and attention.\n\nKaziranga feels alive, wild, and dynamic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "UNESCO", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Majuli",
+    "img": "",
+    "short": "A peaceful river island known for culture, nature, and open landscapes.",
+    "long": "Majuli feels open and calm, surrounded by the vast Brahmaputra River.\n\nThe island has wide fields and simple village life.\n\nThe environment is quiet and less crowded.\n\nCultural spaces like satras add depth to the experience.\n\nThe pace of life is slow and unhurried.\n\nThe landscape feels wide and uninterrupted.\n\nSunsets across the river create soft and peaceful views.\n\nThe island feels connected to both nature and tradition.\n\nTravel here feels different from typical destinations.\n\nMajuli is about simplicity, culture, and openness.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Ecological", "Scenic", "Spiritual"]
+  },
+  {
+    "name": "Kamakhya Temple",
+    "img": "",
+    "short": "A sacred temple known for its spiritual significance and hilltop setting.",
+    "long": "Kamakhya Temple sits on a hill, offering both spiritual and scenic surroundings.\n\nThe temple structure feels strong and distinct.\n\nThe atmosphere is active, with devotees visiting throughout the day.\n\nThe climb to the temple adds a sense of journey.\n\nFrom the top, the views of the city below feel wide and open.\n\nThe environment combines movement with moments of calm.\n\nThe temple has a unique identity compared to others.\n\nThe surroundings feel vibrant yet meaningful.\n\nThere’s a constant sense of devotion in the air.\n\nKamakhya feels powerful, spiritual, and deeply rooted.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Mountains", "Scenic"]
+  }, 
+[
+  {
+    "name": "Manas National Park",
+    "img": "",
+    "short": "A rich wildlife reserve known for biodiversity and scenic forest landscapes.",
+    "long": "Manas National Park feels vast and deeply connected to nature, with forests stretching across large areas.\n\nThe landscape includes grasslands, rivers, and dense woodland, creating variety in scenery.\n\nThe environment feels fresh and alive, with natural sounds filling the space.\n\nWildlife exists throughout the park, adding a sense of unpredictability.\n\nThe Manas River flows calmly, adding movement to the surroundings.\n\nThe forest feels less commercial and more untouched.\n\nSafari experiences here are quiet and immersive.\n\nThe greenery feels natural and continuous.\n\nEarly mornings bring a calm and slightly misty atmosphere.\n\nThe park feels expansive, giving a sense of openness.\n\nEvery part of the area feels connected to nature.\n\nThe environment encourages slow exploration.\n\nIt’s not rushed or crowded, making the experience more personal.\n\nManas feels peaceful yet full of life.\n\nIt leaves a lasting impression through its raw beauty.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "UNESCO", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Living Root Bridges",
+    "img": "",
+    "short": "Unique natural bridges formed by tree roots in lush forest surroundings.",
+    "long": "The Living Root Bridges feel like a blend of nature and human patience working together.\n\nThese bridges are formed over time using roots of trees, creating strong natural pathways.\n\nThe surroundings are dense forests filled with greenery and moisture.\n\nThe journey to reach the bridges involves trekking through villages and hills.\n\nThe environment feels fresh, with water streams flowing nearby.\n\nThe bridges themselves feel strong yet organic.\n\nWalking across them gives a unique experience.\n\nThe area is quiet, with very little noise apart from nature.\n\nThe greenery feels deep and immersive.\n\nThe air is cool and slightly humid.\n\nThe entire experience feels natural and authentic.\n\nIt’s not just about seeing the bridge but reaching it.\n\nThe effort adds value to the experience.\n\nThe place feels different from typical destinations.\n\nIt leaves a strong impression of harmony with nature.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Ecological", "Hiking", "Scenic"]
+  },
+  {
+    "name": "Shillong",
+    "img": "",
+    "short": "A hill city known for waterfalls, greenery, and pleasant weather.",
+    "long": "Shillong feels fresh and lively, with a mix of natural beauty and urban life.\n\nThe hills around the city create a constant scenic backdrop.\n\nWaterfalls appear across the region, adding movement and freshness.\n\nThe weather stays cool, making it comfortable to explore.\n\nThe city itself feels active but not overwhelming.\n\nRoads wind through hills, offering changing views.\n\nThe environment feels clean and open.\n\nMarkets and cafes add energy to the place.\n\nThe surrounding nature remains easily accessible.\n\nClouds often move across the hills, changing the scenery.\n\nThe balance between city and nature stands out.\n\nThe pace of life is steady and relaxed.\n\nShillong feels welcoming and easy to explore.\n\nIt offers both activity and calmness.\n\nThe overall experience feels refreshing and complete.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Dawki",
+    "img": "",
+    "short": "A scenic river destination known for crystal-clear water and calm surroundings.",
+    "long": "Dawki is known for its incredibly clear river that looks almost transparent.\n\nBoats floating on the water appear as if they are suspended in air.\n\nThe river flows calmly, creating a peaceful atmosphere.\n\nThe surrounding hills add depth to the scenery.\n\nThe environment feels clean and quiet.\n\nThere is very little noise, making it relaxing.\n\nBoating allows you to experience the clarity of the water up close.\n\nThe reflections on the surface change with light.\n\nThe place feels untouched and natural.\n\nIt’s not crowded, adding to the calmness.\n\nThe simplicity of the location stands out.\n\nIt’s more about observation than activity.\n\nThe visuals remain consistent and soothing.\n\nDawki feels minimal yet beautiful.\n\nIt leaves a clear and peaceful impression.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological"]
+  },
+  {
+    "name": "Gangtok",
+    "img": "",
+    "short": "A hill capital known for clean surroundings and mountain views.",
+    "long": "Gangtok feels organized and clean, offering a balanced hill town experience.\n\nThe city sits on slopes, providing wide views of surrounding mountains.\n\nThe roads are well maintained, making movement easy.\n\nThe atmosphere feels calm yet active.\n\nMarkets and streets are lively but controlled.\n\nThe air is fresh and cool.\n\nViewpoints across the city offer scenic perspectives.\n\nThe environment feels structured and safe.\n\nClouds often drift across the town, adding to the charm.\n\nThe pace of life is steady.\n\nThe city blends modern facilities with natural surroundings.\n\nIt’s easy to explore without feeling rushed.\n\nGangtok feels comfortable and welcoming.\n\nIt offers both convenience and beauty.\n\nThe overall experience feels smooth and enjoyable.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  }, 
+{
+    "name": "Yumthang Valley",
+    "img": "",
+    "short": "A high-altitude valley known for flowers, rivers, and wide scenic views.",
+    "long": "Yumthang Valley feels open and refreshing, surrounded by mountains on all sides.\n\nThe valley floor is wide, allowing uninterrupted views of the landscape.\n\nDuring blooming season, flowers spread across the area, adding color to the scenery.\n\nA river flows through the valley, creating a calm and steady presence.\n\nThe air feels crisp and cool due to the high altitude.\n\nThe environment is quiet, with very little human interference.\n\nClouds move across the mountains, changing the view constantly.\n\nThe openness of the space makes it feel expansive.\n\nThe valley is not crowded, allowing peaceful exploration.\n\nWalking through the area feels relaxed and unhurried.\n\nThe natural elements blend smoothly together.\n\nThe scenery looks different throughout the day.\n\nIt’s not about activities, but about observing the surroundings.\n\nThe calmness of the valley stands out.\n\nYumthang feels pure, scenic, and immersive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Tsomgo Lake",
+    "img": "",
+    "short": "A glacial lake known for its clear water and mountain surroundings.",
+    "long": "Tsomgo Lake sits quietly between mountains, reflecting the sky and surroundings.\n\nThe water looks calm and clear, changing color depending on the light.\n\nThe high altitude adds a sense of stillness to the place.\n\nThe surrounding mountains create a closed and peaceful environment.\n\nDuring winter, the lake may freeze, adding a different visual layer.\n\nThe area feels less crowded, allowing time to observe.\n\nThe air is cold and crisp, enhancing the experience.\n\nSmall paths around the lake allow easy movement.\n\nClouds often reflect on the water, adding variation.\n\nThe place feels balanced and natural.\n\nIt’s not overly developed, keeping it authentic.\n\nThe silence adds to the depth of the experience.\n\nEach moment at the lake feels calm and steady.\n\nThe visuals remain soothing throughout the day.\n\nTsomgo feels simple, scenic, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Nathula Pass",
+    "img": "",
+    "short": "A high mountain pass known for its altitude and border location.",
+    "long": "Nathula Pass feels intense and dramatic due to its high altitude and rugged terrain.\n\nThe road leading to the pass winds through steep mountain slopes.\n\nThe environment becomes colder and harsher as you go higher.\n\nThe air feels thinner, adding to the overall experience.\n\nSnow is often visible, especially in colder months.\n\nThe surroundings are raw, with rocks and open land dominating the view.\n\nThe pass has a strong and isolated presence.\n\nStanding at the top gives a sense of achievement.\n\nThe wind is strong and constant.\n\nThe view stretches across distant mountains.\n\nIt’s not a place for long stays, but it leaves an impact.\n\nThe journey itself is a major part of the experience.\n\nThe landscape feels powerful and untouched.\n\nThe environment is both challenging and beautiful.\n\nNathula feels extreme, scenic, and memorable.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic"]
+  },
+  {
+    "name": "Itanagar",
+    "img": "",
+    "short": "A quiet capital city surrounded by hills and greenery.",
+    "long": "Itanagar feels calm and less crowded compared to other cities.\n\nThe town is surrounded by hills and greenery, creating a natural backdrop.\n\nThe environment feels open and less congested.\n\nThe pace of life is slow and relaxed.\n\nRoads are simple and not overly busy.\n\nThe surroundings include forests and natural spaces.\n\nThe air feels fresh and clean.\n\nThere’s a balance between urban life and nature.\n\nThe city does not feel overwhelming.\n\nIt’s easy to move around without rush.\n\nThe atmosphere remains consistent throughout the day.\n\nThe simplicity of the place stands out.\n\nIt feels grounded and practical.\n\nThe environment is peaceful and steady.\n\nItanagar offers a calm and easygoing experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Ziro Valley",
+    "img": "",
+    "short": "A scenic valley known for rice fields, culture, and peaceful surroundings.",
+    "long": "Ziro Valley feels wide and calm, with green fields stretching across the landscape.\n\nThe valley is surrounded by hills, creating a contained and peaceful environment.\n\nRice fields form patterns that change with seasons.\n\nThe area feels organized yet natural.\n\nThe pace of life is slow and steady.\n\nVillages add cultural depth to the surroundings.\n\nThe air feels fresh and clean.\n\nWalking through the valley feels relaxed.\n\nThe scenery is consistent and soothing.\n\nThere is very little noise or disturbance.\n\nThe environment encourages slow observation.\n\nThe place feels less commercial and more authentic.\n\nSunlight adds softness to the landscape.\n\nThe valley remains visually calming.\n\nZiro feels simple, scenic, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Ecological", "Scenic"]
+  }, 
+{
+    "name": "Bomdila",
+    "img": "",
+    "short": "A quiet hill town known for monasteries and panoramic mountain views.",
+    "long": "Bomdila feels calm and peaceful, surrounded by hills and open skies.\n\nThe town offers wide views of the surrounding mountains, especially on clear days.\n\nMonasteries add a spiritual and quiet presence to the environment.\n\nThe roads are simple and less crowded, making movement easy.\n\nThe air feels fresh and cool throughout the day.\n\nClouds often drift across the hills, changing the scenery.\n\nThe pace of life is slow and relaxed.\n\nThe town feels less commercial compared to other hill stations.\n\nViewpoints provide uninterrupted landscapes.\n\nThe environment remains quiet and steady.\n\nThere’s a strong sense of simplicity in everyday life.\n\nWalking around feels comfortable and unhurried.\n\nThe surroundings feel open and natural.\n\nIt’s a place where you pause rather than rush.\n\nBomdila feels peaceful, scenic, and grounded.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Spiritual", "Scenic"]
+  },
+  {
+    "name": "Kohima",
+    "img": "",
+    "short": "A hill city known for its culture, history, and scenic landscapes.",
+    "long": "Kohima feels unique, combining cultural identity with natural surroundings.\n\nThe city is built across hills, offering layered views.\n\nThe environment feels less crowded and more relaxed.\n\nHistorical sites add depth to the experience.\n\nLocal markets and streets reflect the region’s culture.\n\nThe air feels fresh, especially in open areas.\n\nThe pace of life is steady and not rushed.\n\nThe surroundings include greenery and hills.\n\nThe city feels connected to its traditions.\n\nViews from higher points reveal wide landscapes.\n\nThe environment is calm yet active.\n\nThe place feels distinct from other cities.\n\nThere’s a sense of identity in everyday life.\n\nThe experience is both cultural and scenic.\n\nKohima feels balanced and meaningful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Historical", "Scenic"]
+  },
+  {
+    "name": "Dzukou Valley",
+    "img": "",
+    "short": "A high-altitude valley known for its rolling landscapes and trekking experience.",
+    "long": "Dzukou Valley feels vast and untouched, with smooth rolling hills stretching endlessly.\n\nThe valley opens up after a trek, making the journey an important part of the experience.\n\nThe landscape is clean and open, without heavy vegetation.\n\nSeasonal flowers add color to the otherwise green terrain.\n\nThe environment feels quiet and isolated.\n\nThe air is crisp and fresh.\n\nWalking through the valley feels effortless due to its smooth terrain.\n\nThe sky appears wide and open above.\n\nThe place is not crowded, allowing peaceful exploration.\n\nThe simplicity of the landscape stands out.\n\nThe valley feels different from dense forests.\n\nSunlight changes the tones of the hills.\n\nThe journey back offers a different perspective.\n\nThe experience feels immersive and calm.\n\nDzukou feels pure, scenic, and expansive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Hiking", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Hornbill Festival",
+    "img": "",
+    "short": "A vibrant cultural festival showcasing traditions, music, and performances.",
+    "long": "The Hornbill Festival feels energetic and colorful, bringing together various cultures.\n\nTraditional performances and music create a lively atmosphere.\n\nThe event showcases local traditions in a structured way.\n\nThe space is filled with movement and activity.\n\nStalls and displays add variety to the experience.\n\nThe environment feels festive and dynamic.\n\nThere’s constant engagement for visitors.\n\nThe visuals are vibrant and expressive.\n\nThe festival creates a strong cultural presence.\n\nThe crowd adds to the energy of the place.\n\nEach performance feels unique and engaging.\n\nThe atmosphere remains active throughout the day.\n\nIt’s not calm — it’s lively and interactive.\n\nThe experience feels immersive and social.\n\nHornbill Festival is about culture, energy, and celebration.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Festivals", "Cultural", "Scenic"]
+  },
+  {
+    "name": "Mokokchung",
+    "img": "",
+    "short": "A peaceful hill town known for culture, views, and relaxed surroundings.",
+    "long": "Mokokchung feels calm and culturally rich, set across gentle hills.\n\nThe town offers wide views of surrounding landscapes.\n\nThe environment feels quiet and less crowded.\n\nLocal culture plays a strong role in daily life.\n\nThe roads are simple and easy to navigate.\n\nThe air feels clean and refreshing.\n\nThe pace of life is slow and steady.\n\nThe surroundings include greenery and open spaces.\n\nThe town feels organized yet natural.\n\nWalking through the area feels relaxed.\n\nThe environment remains consistent throughout the day.\n\nThe simplicity of the place stands out.\n\nIt feels authentic and grounded.\n\nThe overall atmosphere is peaceful.\n\nMokokchung feels quiet, scenic, and culturally connected.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+ {
+    "name": "Loktak Lake",
+    "img": "",
+    "short": "A unique lake known for floating islands and calm scenic surroundings.",
+    "long": "Loktak Lake feels vast and peaceful, with water stretching across a wide area.\n\nThe floating islands, known as phumdis, make the landscape look different from typical lakes.\n\nThese floating patches shift slightly, adding movement to the scenery.\n\nThe water appears calm and reflective.\n\nBoat rides allow closer interaction with the lake.\n\nThe surroundings feel quiet and less crowded.\n\nThe air feels fresh and open.\n\nSunrise and sunset create soft lighting across the water.\n\nThe lake changes appearance depending on the time of day.\n\nThe environment feels natural and undisturbed.\n\nThere is a steady rhythm to the place.\n\nThe openness adds a sense of calmness.\n\nIt’s not about activities but observation.\n\nThe visuals remain soothing and consistent.\n\nLoktak feels unique, peaceful, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Ecological", "Scenic"]
+  },
+  {
+    "name": "Keibul Lamjao National Park",
+    "img": "",
+    "short": "A floating national park known for its rare ecosystem and wildlife.",
+    "long": "Keibul Lamjao feels unusual as it exists on floating biomass over water.\n\nThe terrain is soft and layered, unlike typical forests.\n\nThe environment feels fragile and unique.\n\nWildlife moves across these floating surfaces.\n\nThe landscape appears calm but is structurally dynamic.\n\nThe area feels quiet and less explored.\n\nObservation requires patience and attention.\n\nThe surroundings blend water and vegetation.\n\nThe park feels different from standard reserves.\n\nThe ecosystem is rare and delicate.\n\nThe visuals are subtle yet interesting.\n\nThe experience feels slow and immersive.\n\nThere’s a sense of balance between land and water.\n\nThe environment remains consistent and calm.\n\nKeibul Lamjao feels rare, ecological, and distinctive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Ukhrul",
+    "img": "",
+    "short": "A scenic hill town known for natural beauty and peaceful surroundings.",
+    "long": "Ukhrul feels calm and refreshing, surrounded by hills and greenery.\n\nThe landscape includes open valleys and gentle slopes.\n\nThe environment is quiet and not crowded.\n\nThe air feels clean and cool.\n\nFlowers and vegetation add color to the area.\n\nThe town feels simple and grounded.\n\nWalking around is easy and relaxed.\n\nThe scenery remains consistent and soothing.\n\nThe pace of life is slow and steady.\n\nClouds often move across the hills.\n\nThe place feels less commercialized.\n\nThe natural surroundings dominate the experience.\n\nThere is a sense of openness and freedom.\n\nThe environment encourages calmness.\n\nUkhrul feels peaceful, scenic, and natural.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Kangla Fort",
+    "img": "",
+    "short": "A historic site known for its cultural importance and open grounds.",
+    "long": "Kangla Fort feels spacious and historically significant.\n\nThe area includes open fields, ruins, and reconstructed structures.\n\nThe environment is calm and organized.\n\nWalking through the fort grounds feels relaxed.\n\nThe layout allows easy exploration.\n\nThe structures reflect a sense of past importance.\n\nThe surroundings include greenery and water features.\n\nThe atmosphere feels quiet and respectful.\n\nIt’s not crowded, allowing peaceful visits.\n\nThe fort connects history with open space.\n\nThe visuals are simple yet meaningful.\n\nThe environment feels stable and grounded.\n\nIt encourages slow movement and observation.\n\nThe place has a steady and calm presence.\n\nKangla Fort feels historical, open, and serene.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Aizawl",
+    "img": "",
+    "short": "A hill city known for its structured layout and scenic surroundings.",
+    "long": "Aizawl feels organized and spread across hills in a structured way.\n\nBuildings are arranged along slopes, creating layered visuals.\n\nThe environment feels clean and less chaotic.\n\nThe air is fresh and cool.\n\nThe city has a calm and steady rhythm.\n\nRoads wind through hills, offering changing views.\n\nThe surroundings include greenery and open skies.\n\nThe pace of life is relaxed.\n\nThe city feels modern yet simple.\n\nWalking around gives a sense of order.\n\nThe atmosphere remains consistent.\n\nThere’s a balance between urban and natural elements.\n\nThe environment is easy to navigate.\n\nThe visuals feel neat and organized.\n\nAizawl feels calm, scenic, and well-structured.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+{
+    "name": "Lunglei",
+    "img": "",
+    "short": "A quiet hill town known for its scenic cliffs and peaceful environment.",
+    "long": "Lunglei feels calm and slightly remote, offering a break from crowded hill stations.\n\nThe town is surrounded by hills and cliffs, giving it a distinct landscape.\n\nViews from higher points feel wide and uninterrupted.\n\nThe environment remains quiet throughout the day.\n\nThe air feels clean and fresh, especially in open areas.\n\nThe pace of life is slow and steady.\n\nRoads are simple and not heavily crowded.\n\nThe town feels less commercialized, adding to its authenticity.\n\nNatural surroundings dominate the experience.\n\nClouds often move across the hills, changing the visuals.\n\nWalking around feels relaxed and unhurried.\n\nThe atmosphere is consistent and peaceful.\n\nThere is very little noise or disturbance.\n\nThe simplicity of the place stands out.\n\nIt feels grounded and natural.\n\nLunglei offers a quiet, scenic, and calming experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Reiek",
+    "img": "",
+    "short": "A scenic hill destination known for trekking and panoramic views.",
+    "long": "Reiek feels open and refreshing, with hills stretching into the distance.\n\nThe main attraction is the viewpoint that offers wide panoramic scenery.\n\nThe trek to reach the top adds effort and excitement.\n\nThe landscape includes greenery mixed with open patches.\n\nThe air feels cool and crisp throughout the journey.\n\nThe environment is quiet and less crowded.\n\nThe climb is manageable but engaging.\n\nReaching the top gives a sense of achievement.\n\nThe scenery changes as you move higher.\n\nThe place feels raw and natural.\n\nThere are minimal structures, keeping it authentic.\n\nThe surroundings feel vast and open.\n\nThe experience is both physical and visual.\n\nIt encourages slow and steady exploration.\n\nThe calmness adds depth to the journey.\n\nReiek feels adventurous, scenic, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Hiking", "Scenic"]
+  },
+  {
+    "name": "Champhai",
+    "img": "",
+    "short": "A border town known for valleys, vineyards, and scenic landscapes.",
+    "long": "Champhai feels wide and open, with valleys stretching across the horizon.\n\nThe town sits near the border, giving it a unique geographical presence.\n\nThe landscape includes green fields and gentle hills.\n\nThe environment feels calm and less crowded.\n\nThe air is fresh and clean.\n\nViews from different points offer depth and distance.\n\nThe area has a steady and relaxed pace of life.\n\nThe surroundings feel natural and undisturbed.\n\nSunlight adds softness to the landscape.\n\nThe place feels simple yet visually appealing.\n\nThere is a sense of openness in every direction.\n\nThe environment encourages quiet observation.\n\nThe town feels organized but not busy.\n\nThe visuals remain consistent and soothing.\n\nChamphai offers a peaceful and scenic experience.\n\nIt feels calm, open, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Neermahal",
+    "img": "",
+    "short": "A water palace known for its unique location in the middle of a lake.",
+    "long": "Neermahal stands out as a palace built right in the middle of a lake.\n\nThe structure appears elegant, surrounded completely by water.\n\nBoat rides are required to reach the palace, adding to the experience.\n\nThe reflection of the palace on water creates a calm visual.\n\nThe surroundings feel quiet and open.\n\nThe architecture looks simple yet distinctive.\n\nThe environment is not crowded, allowing relaxed exploration.\n\nThe lake adds a steady and peaceful presence.\n\nThe atmosphere feels balanced between history and nature.\n\nSunlight changes the appearance of the palace walls.\n\nThe water creates a sense of isolation.\n\nThe place feels different from typical monuments.\n\nMovement across the lake feels smooth and calm.\n\nThe experience is slow and immersive.\n\nThe palace feels serene and unique.\n\nNeermahal offers a peaceful and scenic setting.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Ujjayanta Palace",
+    "img": "",
+    "short": "A grand palace known for its architecture and landscaped surroundings.",
+    "long": "Ujjayanta Palace feels structured and elegant, surrounded by well-maintained gardens.\n\nThe building stands prominently with a balanced design.\n\nThe white exterior gives it a clean and refined look.\n\nOpen lawns around the palace create space and symmetry.\n\nWalking through the area feels organized and calm.\n\nThe environment is not overly crowded.\n\nThe architecture reflects careful planning and detail.\n\nThe surroundings feel neat and maintained.\n\nThe palace has a steady and composed presence.\n\nThe space allows easy movement and exploration.\n\nThe environment feels peaceful despite its central location.\n\nThe visuals are simple yet impressive.\n\nThe structure stands out against the greenery.\n\nThe atmosphere feels formal but welcoming.\n\nThe place encourages slow observation.\n\nUjjayanta Palace feels elegant, calm, and visually balanced.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  }, 
+{
+    "name": "Unakoti",
+    "img": "",
+    "short": "A historic site known for massive rock carvings and forest surroundings.",
+    "long": "Unakoti feels mysterious and unique, set within a forested landscape.\n\nThe site features large rock carvings carved directly into the hills.\n\nThe scale of these carvings makes them visually striking.\n\nThe surroundings include trees, rocks, and natural slopes.\n\nThe environment feels quiet and slightly isolated.\n\nWalking through the area reveals different carvings at various points.\n\nThe terrain is uneven, adding a sense of exploration.\n\nWater streams may flow during certain seasons, adding freshness.\n\nThe place feels ancient and untouched.\n\nThere is a calm yet intriguing atmosphere.\n\nThe carvings blend naturally with the landscape.\n\nThe experience feels different from structured monuments.\n\nIt encourages slow and curious exploration.\n\nThe environment remains consistent and peaceful.\n\nUnakoti feels historical, artistic, and immersive.\n\nIt leaves a lasting impression through its uniqueness.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Spiritual", "Scenic"]
+  },
+  {
+    "name": "Sepahijala Wildlife Sanctuary",
+    "img": "",
+    "short": "A forest reserve known for wildlife, lakes, and peaceful surroundings.",
+    "long": "Sepahijala Wildlife Sanctuary feels calm and well-contained within its forest area.\n\nThe landscape includes trees, open spaces, and small water bodies.\n\nThe environment feels organized compared to larger national parks.\n\nWalking paths allow easy exploration.\n\nWildlife can be observed in different parts of the sanctuary.\n\nThe presence of lakes adds variation to the scenery.\n\nThe atmosphere is quiet and steady.\n\nThe area is not overly crowded, making it comfortable.\n\nThe greenery feels consistent throughout.\n\nThe environment is suitable for slow exploration.\n\nThere is a balance between nature and accessibility.\n\nThe place feels safe and structured.\n\nThe visuals are simple but pleasant.\n\nThe experience is relaxed rather than intense.\n\nIt encourages observation and calmness.\n\nSepahijala feels ecological, peaceful, and easygoing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Mahabodhi Temple",
+    "img": "",
+    "short": "A sacred temple known for its spiritual atmosphere and serene surroundings.",
+    "long": "Mahabodhi Temple feels deeply peaceful, with a calm and focused environment.\n\nThe temple structure stands tall and distinct.\n\nThe surroundings are well maintained and organized.\n\nVisitors move quietly, adding to the atmosphere.\n\nThe area feels balanced between activity and silence.\n\nTrees and open spaces provide shade and calmness.\n\nThe environment encourages stillness and reflection.\n\nThe architecture feels simple yet meaningful.\n\nThe place is not rushed, allowing time to pause.\n\nThe atmosphere remains consistent throughout the day.\n\nThe surroundings feel clean and structured.\n\nThere is a steady flow of visitors without chaos.\n\nThe experience is more internal than visual.\n\nThe environment supports calm observation.\n\nMahabodhi Temple feels spiritual, शांत, and grounded.\n\nIt leaves a quiet and lasting impact.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Nalanda",
+    "img": "",
+    "short": "An ancient site known for ruins of one of the world’s oldest universities.",
+    "long": "Nalanda feels expansive, with ruins spread across a large open area.\n\nThe structures are partially preserved, giving a glimpse into the past.\n\nWalking through the site feels like moving through history.\n\nThe layout shows organized sections of buildings and pathways.\n\nThe environment is open and not crowded.\n\nThe ruins have a consistent reddish tone.\n\nThe place feels calm and steady.\n\nThere is a sense of depth in the surroundings.\n\nThe space allows slow and thoughtful exploration.\n\nThe area is well maintained and easy to navigate.\n\nThe visuals are simple but meaningful.\n\nThe site feels grounded and authentic.\n\nThere is no rush — only observation.\n\nThe openness adds to the experience.\n\nNalanda feels historical, educational, and reflective.\n\nIt leaves a strong sense of past significance.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Rajgir",
+    "img": "",
+    "short": "A historic town known for hills, temples, and natural surroundings.",
+    "long": "Rajgir feels surrounded by hills, creating a contained and peaceful environment.\n\nThe town combines natural landscapes with spiritual spots.\n\nThe ropeway offers views from above, adding a different perspective.\n\nThe environment feels calm and slightly spread out.\n\nThe air is fresh, especially near hill areas.\n\nThe pace of life is slow and relaxed.\n\nPaths and roads connect various points easily.\n\nThe surroundings include greenery and open spaces.\n\nThe place feels less crowded compared to major cities.\n\nThere is a balance between activity and calmness.\n\nThe hills add depth to the scenery.\n\nThe environment encourages slow exploration.\n\nThe visuals remain consistent and soothing.\n\nThe town feels grounded and simple.\n\nRajgir offers a mix of nature and quiet presence.\n\nIt feels peaceful, scenic, and balanced.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Spiritual", "Mountains", "Scenic"]
+  }, 
+{
+    "name": "Vaishali",
+    "img": "",
+    "short": "An ancient site known for historical ruins and peaceful surroundings.",
+    "long": "Vaishali feels open and calm, with historical remains spread across a wide area.\n\nThe ruins are simple yet meaningful, reflecting an ancient past.\n\nThe environment is quiet and not crowded.\n\nWalking through the site feels slow and reflective.\n\nThe layout is spacious, allowing easy movement.\n\nThe surroundings include greenery and open land.\n\nThere is a sense of stillness throughout the place.\n\nThe site does not feel rushed or commercial.\n\nThe atmosphere encourages observation rather than activity.\n\nThe structures blend naturally with the ground.\n\nThe area feels grounded and stable.\n\nSunlight adds warmth to the surroundings.\n\nThe experience remains consistent throughout.\n\nIt feels more about presence than visuals.\n\nThe simplicity stands out.\n\nVaishali feels historical, calm, and reflective.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Netarhat",
+    "img": "",
+    "short": "A hill destination known for sunrise views and peaceful nature.",
+    "long": "Netarhat feels quiet and refreshing, surrounded by forests and hills.\n\nThe place is known for its sunrise and sunset viewpoints.\n\nThe air feels clean and cool.\n\nThe environment is not crowded, allowing peaceful exploration.\n\nThe landscape includes forests and open viewpoints.\n\nThe roads are simple and less busy.\n\nThe pace of life is slow and relaxed.\n\nThe surroundings feel natural and undisturbed.\n\nClouds often move across the hills.\n\nThe light changes beautifully during sunrise.\n\nWalking around feels calm and easy.\n\nThe area feels less commercialized.\n\nThe environment remains consistent and soothing.\n\nIt encourages quiet observation.\n\nThe place feels grounded and simple.\n\nNetarhat offers a calm, scenic, and peaceful experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Betla National Park",
+    "img": "",
+    "short": "A forest reserve known for wildlife and dense greenery.",
+    "long": "Betla National Park feels dense and green, with forests covering most of the landscape.\n\nThe area includes trees, open patches, and natural trails.\n\nWildlife exists across different parts of the park.\n\nThe environment feels calm and immersive.\n\nThe air is fresh and slightly earthy.\n\nSafari rides allow exploration of deeper forest areas.\n\nThe surroundings feel less crowded and more natural.\n\nThe forest creates a sense of enclosure.\n\nThe experience is slow and steady.\n\nNatural sounds dominate the environment.\n\nThe greenery remains consistent throughout.\n\nThe place feels authentic and untouched.\n\nIt encourages observation and patience.\n\nThe environment feels stable and grounded.\n\nEach visit feels slightly different.\n\nBetla feels ecological, wild, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Deogarh",
+    "img": "",
+    "short": "A spiritual town known for temples and a calm atmosphere.",
+    "long": "Deogarh feels centered around spirituality, with temples forming the core of the town.\n\nThe environment is active yet not chaotic.\n\nThe temple areas feel structured and organized.\n\nVisitors move steadily through the space.\n\nThe surroundings include simple streets and local markets.\n\nThe atmosphere remains focused and calm.\n\nThere is a steady rhythm throughout the day.\n\nThe place feels grounded in tradition.\n\nThe environment is not overwhelming.\n\nWalking around feels manageable and easy.\n\nThe town maintains a consistent flow.\n\nThe experience is simple yet meaningful.\n\nThere is a sense of devotion in the air.\n\nThe visuals are straightforward and clear.\n\nThe place encourages quiet presence.\n\nDeogarh feels spiritual, calm, and steady.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Scenic"]
+  },
+  {
+    "name": "Chitrakote Waterfalls",
+    "img": "",
+    "short": "A wide waterfall known for its powerful flow and scenic beauty.",
+    "long": "Chitrakote Waterfalls feels powerful, with water spreading across a wide rocky edge.\n\nThe waterfall creates a strong visual impact.\n\nThe sound of flowing water dominates the area.\n\nMist rises from below, adding freshness to the environment.\n\nThe surroundings include rocks and greenery.\n\nThe flow changes depending on the season.\n\nDuring high flow, the waterfall feels massive and intense.\n\nThe open space allows clear views.\n\nThe atmosphere feels energetic yet calming.\n\nThe place is not overly crowded.\n\nSunlight interacts with the water, creating visual effects.\n\nViewing points allow different perspectives.\n\nThe experience feels immersive and strong.\n\nThe environment remains natural and raw.\n\nIt encourages observation and stillness.\n\nChitrakote feels powerful, scenic, and dynamic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological"]
+  }, 
+  {
+    "name": "Kanger Valley National Park",
+    "img": "",
+    "short": "A dense forest region known for caves, waterfalls, and rich biodiversity.",
+    "long": "Kanger Valley National Park feels deep and immersive, surrounded by thick forests.\n\nThe greenery is dense and consistent across the landscape.\n\nThe park includes caves, waterfalls, and forest trails.\n\nThe environment feels slightly wild and untouched.\n\nNatural sounds dominate the surroundings.\n\nThe air feels fresh and slightly humid.\n\nWalking through the forest gives a sense of depth.\n\nThe caves add a unique element to the experience.\n\nWaterfalls inside the park bring movement and energy.\n\nThe area is not crowded, allowing peaceful exploration.\n\nThe terrain varies, keeping the experience engaging.\n\nThe forest feels alive and active.\n\nThe environment encourages slow observation.\n\nThe place remains raw and natural.\n\nEach section of the park feels slightly different.\n\nKanger Valley feels ecological, adventurous, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic", "Adventure"]
+  },
+  {
+    "name": "Sirpur",
+    "img": "",
+    "short": "An ancient town known for temple ruins and historical significance.",
+    "long": "Sirpur feels calm and historically rich, with ruins spread across open land.\n\nThe structures are simple yet meaningful.\n\nThe environment is quiet and not crowded.\n\nWalking through the site feels relaxed.\n\nThe layout is spacious and easy to explore.\n\nThe remains reflect a well-planned ancient settlement.\n\nThe surroundings include greenery and open fields.\n\nThe atmosphere feels steady and grounded.\n\nThe place is not heavily commercialized.\n\nThe visuals are subtle but detailed.\n\nThe environment encourages observation.\n\nThe site feels authentic and preserved.\n\nThe experience is slow and reflective.\n\nThere is a sense of depth in the surroundings.\n\nThe place remains consistent throughout.\n\nSirpur feels historical, peaceful, and meaningful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Khajuraho",
+    "img": "",
+    "short": "A UNESCO heritage site known for detailed temple carvings and architecture.",
+    "long": "Khajuraho stands out for its intricate temple carvings and structured layout.\n\nThe temples are spread across open, well-maintained grounds.\n\nEach structure displays detailed craftsmanship.\n\nWalking through the complex reveals new patterns and designs.\n\nThe environment feels organized and accessible.\n\nThe temples have a consistent architectural style.\n\nThe surroundings are clean and spacious.\n\nThe atmosphere is calm and steady.\n\nSunlight highlights the carvings on the walls.\n\nThe place is not overly crowded.\n\nThe experience is both visual and observational.\n\nThe layout allows easy movement between temples.\n\nThe environment feels balanced and structured.\n\nThe details remain engaging throughout.\n\nThe site feels preserved and meaningful.\n\nKhajuraho feels artistic, historical, and visually rich.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "UNESCO", "Scenic"]
+  },
+  {
+    "name": "Bandhavgarh National Park",
+    "img": "",
+    "short": "A wildlife park known for dense forests and tiger sightings.",
+    "long": "Bandhavgarh feels dense and intense, with forests covering the landscape.\n\nThe terrain includes hills, valleys, and thick vegetation.\n\nSafari drives take you through different zones.\n\nThe possibility of spotting wildlife adds excitement.\n\nThe environment feels active yet quiet.\n\nThe forest creates a sense of enclosure.\n\nThe air feels fresh and slightly earthy.\n\nEarly morning safaris feel calm and immersive.\n\nThe place is not overly crowded.\n\nThe experience depends on patience and timing.\n\nThe surroundings feel raw and natural.\n\nEach route offers a different perspective.\n\nThe forest remains consistent and dense.\n\nThe atmosphere is steady and grounded.\n\nThe park feels alive and unpredictable.\n\nBandhavgarh feels wild, scenic, and immersive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Wildlife", "Ecological", "Scenic"]
+  },
+  {
+    "name": "Pachmarhi",
+    "img": "",
+    "short": "A hill station known for forests, waterfalls, and scenic viewpoints.",
+    "long": "Pachmarhi feels green and refreshing, surrounded by forests and hills.\n\nThe landscape includes waterfalls, caves, and viewpoints.\n\nThe air feels clean and cool.\n\nThe environment is calm and not overly crowded.\n\nRoads and trails connect different spots easily.\n\nThe waterfalls add movement and freshness.\n\nThe greenery remains consistent across the area.\n\nThe pace of life is relaxed.\n\nViewpoints offer wide scenic views.\n\nThe place feels less commercialized.\n\nWalking through the area feels comfortable.\n\nThe surroundings feel natural and balanced.\n\nThe environment encourages exploration.\n\nThe visuals remain soothing and consistent.\n\nIt’s a mix of activity and calmness.\n\nPachmarhi feels scenic, ecological, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Ecological", "Scenic", "Adventure"]
+  }, 
+{
+    "name": "Bhopal",
+    "img": "",
+    "short": "A city known for its lakes, greenery, and balanced urban environment.",
+    "long": "Bhopal feels balanced, combining city life with natural elements like lakes.\n\nThe Upper Lake creates a calm and open space within the city.\n\nThe environment feels cleaner compared to many urban areas.\n\nThe city layout allows smooth movement.\n\nThe presence of greenery adds freshness.\n\nThe pace of life is steady and not overly rushed.\n\nThe lakeside areas feel peaceful and scenic.\n\nThe city has a mix of old and modern structures.\n\nMarkets and streets feel active but manageable.\n\nThe air quality feels relatively better.\n\nWalking around certain areas feels relaxed.\n\nThe environment remains consistent throughout the day.\n\nThere is a sense of openness within the city.\n\nThe balance between nature and urban life stands out.\n\nThe atmosphere feels comfortable and stable.\n\nBhopal offers a calm, scenic, and balanced city experience.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological"]
+  },
+  {
+    "name": "Tirupati",
+    "img": "",
+    "short": "A major pilgrimage destination known for its temple and spiritual atmosphere.",
+    "long": "Tirupati feels deeply spiritual, with a strong sense of devotion throughout the area.\n\nThe temple stands as the central focus of the town.\n\nThe surroundings include hills that add depth to the setting.\n\nThe environment is active with a steady flow of visitors.\n\nDespite crowds, there is a sense of order and structure.\n\nThe journey to the temple adds meaning to the experience.\n\nThe atmosphere feels focused and purposeful.\n\nThe town supports the large number of visitors efficiently.\n\nThe environment blends movement with moments of calm.\n\nThe hills around the area enhance the visual experience.\n\nThe place feels grounded in tradition.\n\nThe pace varies depending on the time and crowd.\n\nThere is a consistent sense of devotion in the air.\n\nThe experience is more about feeling than visuals.\n\nThe surroundings remain organized and functional.\n\nTirupati feels spiritual, structured, and meaningful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Mountains", "Scenic"]
+  },
+  {
+    "name": "Visakhapatnam",
+    "img": "",
+    "short": "A coastal city known for beaches, hills, and scenic views.",
+    "long": "Visakhapatnam feels open and refreshing, with a mix of sea and hills.\n\nThe coastline provides wide and uninterrupted views of the ocean.\n\nBeaches create a calm and steady rhythm with waves.\n\nThe city is spread out, making it feel less congested.\n\nThe hills add variation to the landscape.\n\nThe air feels fresh near coastal areas.\n\nThe roads are well connected and easy to navigate.\n\nThe environment feels clean and organized.\n\nSunrise and sunset views are visually appealing.\n\nThe place offers both activity and calmness.\n\nThe combination of elements feels balanced.\n\nThe pace of life is steady.\n\nThe city supports both tourism and daily life smoothly.\n\nThe visuals remain consistent and soothing.\n\nThe atmosphere feels relaxed and open.\n\nVisakhapatnam feels scenic, coastal, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Beaches", "Mountains", "Scenic"]
+  },
+  {
+    "name": "Veerabhadra Temple (Lepakshi)",
+    "img": "",
+    "short": "A historic temple known for its architecture and intricate carvings.",
+    "long": "Lepakshi Temple feels artistic and structured, with detailed carvings throughout.\n\nThe architecture reflects precision and balance.\n\nThe pillars and ceilings display intricate designs.\n\nThe environment is calm and not crowded.\n\nThe temple complex is open and easy to explore.\n\nThe carvings add depth to the experience.\n\nThe surroundings feel simple yet meaningful.\n\nThe atmosphere is steady and quiet.\n\nWalking through the temple reveals new details.\n\nThe place feels preserved and authentic.\n\nThe layout allows smooth movement.\n\nThe environment encourages observation.\n\nThe structure stands out against the surroundings.\n\nThe experience is visual and calm.\n\nThe temple feels grounded in design and detail.\n\nLepakshi feels historical, artistic, and serene.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Spiritual", "Scenic"]
+  },
+  {
+    "name": "Amaravati",
+    "img": "",
+    "short": "A historic and spiritual site known for its cultural and scenic presence.",
+    "long": "Amaravati feels calm and open, with a mix of historical and spiritual elements.\n\nThe area includes temples and cultural landmarks.\n\nThe environment feels quiet and not overly crowded.\n\nThe surroundings include open land and greenery.\n\nThe place feels organized and accessible.\n\nThe atmosphere remains steady throughout the day.\n\nThe experience is simple and relaxed.\n\nWalking around feels easy and comfortable.\n\nThe environment encourages slow exploration.\n\nThe visuals are subtle yet meaningful.\n\nThe place feels grounded and authentic.\n\nThere is a sense of calmness in the surroundings.\n\nThe pace of life is slow and steady.\n\nThe area blends history with present-day life.\n\nThe environment feels stable and peaceful.\n\nAmaravati feels calm, spiritual, and balanced.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Spiritual", "Scenic"]
+  }, 
+{
+    "name": "Charminar",
+    "img": "",
+    "short": "An iconic monument known for its architecture and vibrant surroundings.",
+    "long": "Charminar stands at the center of a busy and lively part of the city.\n\nThe structure feels balanced with its four tall minarets.\n\nThe surrounding area is full of movement and activity.\n\nMarkets nearby add energy and color to the environment.\n\nThe monument itself feels stable and well-defined.\n\nWalking around it gives different perspectives.\n\nThe atmosphere is crowded but organized in its own way.\n\nThe structure contrasts with the busy streets.\n\nThe place feels both historical and active.\n\nThe environment changes throughout the day.\n\nEvenings feel more vibrant and lively.\n\nThe monument remains the focal point.\n\nThe experience is both visual and social.\n\nThe surroundings add depth to the visit.\n\nCharminar feels iconic, energetic, and cultural.\n\nIt leaves a strong visual impression.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Golconda Fort",
+    "img": "",
+    "short": "A historic fort known for its massive structure and panoramic views.",
+    "long": "Golconda Fort feels grand and expansive, spread across a large rocky hill.\n\nThe climb to the top adds effort and engagement.\n\nThe structure includes walls, gateways, and open sections.\n\nEach level offers a different view of the surroundings.\n\nThe environment feels open and slightly rugged.\n\nThe fort is not overly crowded, allowing exploration.\n\nThe stone pathways add to the historical feel.\n\nThe views from the top are wide and clear.\n\nThe place feels strong and well-built.\n\nWalking through the fort reveals its scale.\n\nThe atmosphere remains steady and calm.\n\nThe structure blends with the natural terrain.\n\nThe experience is both physical and visual.\n\nThe fort feels grounded and solid.\n\nIt encourages slow and steady movement.\n\nGolconda feels historical, powerful, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Warangal",
+    "img": "",
+    "short": "A historic city known for ancient temples and architectural remains.",
+    "long": "Warangal feels rooted in history, with structures spread across the city.\n\nThe ancient gateways and temples stand out visually.\n\nThe environment feels calm and less crowded.\n\nThe layout of ruins is open and easy to explore.\n\nThe architecture shows detailed craftsmanship.\n\nThe surroundings include greenery and open land.\n\nThe place feels grounded and authentic.\n\nWalking through the sites feels relaxed.\n\nThe atmosphere is steady and quiet.\n\nThe visuals remain consistent and meaningful.\n\nThe structures connect different parts of history.\n\nThe environment is not overly commercial.\n\nThe experience is observational and calm.\n\nThe place encourages slow exploration.\n\nThe city blends past with present.\n\nWarangal feels historical, simple, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Nagarjuna Sagar",
+    "img": "",
+    "short": "A large dam site known for its vast water reservoir and scenic views.",
+    "long": "Nagarjuna Sagar feels wide and expansive, with water stretching across large distances.\n\nThe dam structure looks strong and well-built.\n\nThe reservoir creates a calm and steady environment.\n\nThe surroundings include hills and open land.\n\nThe place feels less crowded and peaceful.\n\nThe water surface reflects light differently throughout the day.\n\nThe environment feels open and airy.\n\nThe dam area offers viewpoints for observation.\n\nThe atmosphere is quiet and steady.\n\nThe scale of the structure stands out.\n\nThe experience is more visual than active.\n\nThe surroundings remain consistent and calm.\n\nThe place encourages slow observation.\n\nThe openness adds to the experience.\n\nIt feels grounded and stable.\n\nNagarjuna Sagar feels scenic, expansive, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic", "Ecological"]
+  },
+  {
+    "name": "Golden Temple (Amritsar)",
+    "img": "",
+    "short": "A sacred shrine known for its serene atmosphere and reflective water.",
+    "long": "The Golden Temple feels calm and centered, surrounded by water on all sides.\n\nThe structure reflects beautifully in the surrounding pool.\n\nThe environment is peaceful despite continuous visitors.\n\nThe space feels organized and well-managed.\n\nWalking around the temple creates a steady rhythm.\n\nThe atmosphere encourages silence and reflection.\n\nThe architecture appears balanced and elegant.\n\nThe surroundings are clean and well-maintained.\n\nThe place feels welcoming to all visitors.\n\nThe water adds calmness to the experience.\n\nThe environment remains consistent throughout the day.\n\nThe experience is more emotional than visual.\n\nThe space allows slow movement and observation.\n\nThe atmosphere feels deeply spiritual.\n\nThe structure stands out with simplicity and grace.\n\nGolden Temple feels serene, spiritual, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Scenic"]
+  }, 
+{
+    "name": "Attari Wagah Border",
+    "img": "",
+    "short": "A border site known for its energetic daily ceremony and patriotic atmosphere.",
+    "long": "Attari Wagah Border feels intense and energetic, especially during the evening ceremony.\n\nThe atmosphere builds up as people gather in large numbers.\n\nThe environment is loud, filled with cheers and coordinated activity.\n\nThe ceremony itself is structured and highly synchronized.\n\nMovements by the guards are sharp and dramatic.\n\nThe energy of the crowd adds to the overall experience.\n\nThe space feels organized despite the large gathering.\n\nThe event unfolds in a fixed sequence.\n\nThe environment remains active and dynamic.\n\nThere is a strong sense of unity in the atmosphere.\n\nThe visuals are bold and expressive.\n\nThe experience is fast-paced and engaging.\n\nThe surrounding area is simple and functional.\n\nThe focus remains on the ceremony itself.\n\nIt’s not calm — it’s vibrant and intense.\n\nAttari Wagah feels energetic, patriotic, and powerful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Festivals", "Scenic"]
+  },
+  {
+    "name": "Patiala",
+    "img": "",
+    "short": "A historic city known for palaces, culture, and lively streets.",
+    "long": "Patiala feels rich in culture, with historical buildings spread across the city.\n\nThe streets are active, filled with local life and movement.\n\nThe architecture reflects a mix of heritage and everyday use.\n\nThe environment feels lively but not overwhelming.\n\nMarkets add color and energy to the surroundings.\n\nThe city has a steady and consistent rhythm.\n\nThe pace of life is balanced.\n\nWalking through the city feels engaging.\n\nThe structures stand out with their design.\n\nThe environment blends past with present.\n\nThe place feels grounded in tradition.\n\nThere is a strong cultural identity.\n\nThe visuals are vibrant and expressive.\n\nThe city feels connected and active.\n\nIt encourages exploration at a steady pace.\n\nPatiala feels cultural, historical, and lively.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Ludhiana",
+    "img": "",
+    "short": "A busy city known for its industry and active urban life.",
+    "long": "Ludhiana feels fast-paced and active, with constant movement across the city.\n\nThe streets are busy, filled with traffic and people.\n\nThe environment feels energetic and dynamic.\n\nThe city has a strong urban presence.\n\nMarkets and commercial areas dominate the landscape.\n\nThe pace of life is quick and continuous.\n\nThe surroundings feel dense and functional.\n\nThere is a constant flow of activity.\n\nThe environment is not quiet but lively.\n\nThe city feels focused on work and movement.\n\nWalking through it feels engaging and active.\n\nThe visuals are practical rather than scenic.\n\nThe atmosphere remains consistent throughout the day.\n\nThe place feels structured around productivity.\n\nIt offers a different experience from calm destinations.\n\nLudhiana feels active, urban, and energetic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic"]
+  },
+  {
+    "name": "Anandpur Sahib",
+    "img": "",
+    "short": "A spiritual town known for its gurudwaras and peaceful surroundings.",
+    "long": "Anandpur Sahib feels calm and centered around spirituality.\n\nThe gurudwaras form the heart of the town.\n\nThe environment is peaceful and organized.\n\nThe surroundings include hills that add depth to the scenery.\n\nVisitors move steadily, maintaining a calm atmosphere.\n\nThe place feels less crowded compared to major cities.\n\nThe architecture is simple yet meaningful.\n\nThe environment encourages silence and reflection.\n\nThe pace of life is slow and steady.\n\nWalking through the area feels relaxed.\n\nThe surroundings are clean and maintained.\n\nThere is a strong sense of devotion.\n\nThe visuals remain calm and balanced.\n\nThe atmosphere is consistent throughout the day.\n\nThe place feels grounded and spiritual.\n\nAnandpur Sahib feels peaceful, spiritual, and serene.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Scenic"]
+  },
+  {
+    "name": "Morni Hills",
+    "img": "",
+    "short": "A hill destination known for scenic views and quiet surroundings.",
+    "long": "Morni Hills feels calm and less crowded, offering a peaceful hill experience.\n\nThe landscape includes gentle hills and greenery.\n\nThe environment feels fresh and open.\n\nThe air is clean and slightly cool.\n\nThe roads wind through hills, offering changing views.\n\nThe place is not heavily commercialized.\n\nThe surroundings remain quiet and steady.\n\nThe pace of life is slow and relaxed.\n\nViewpoints provide wide scenic perspectives.\n\nThe environment feels natural and undisturbed.\n\nWalking around feels easy and comfortable.\n\nThe area encourages calm exploration.\n\nThe visuals remain consistent and soothing.\n\nThe atmosphere is peaceful throughout the day.\n\nThe simplicity adds to its charm.\n\nMorni Hills feels scenic, calm, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Gurugram",
+    "img": "",
+    "short": "A modern city known for its skyscrapers, corporate hubs, and fast-paced lifestyle.",
+    "long": "Gurugram feels modern, fast, and constantly evolving with a strong urban presence.\n\nThe skyline is filled with tall buildings and glass structures.\n\nThe environment feels structured and well-planned.\n\nThe pace of life is quick and driven.\n\nRoads are wide but often busy with traffic.\n\nThe city feels focused on growth and activity.\n\nCommercial spaces dominate the landscape.\n\nThe atmosphere is energetic throughout the day.\n\nThe city lights make nights visually appealing.\n\nThe environment feels different from traditional cities.\n\nThere is a strong corporate culture in the air.\n\nThe place feels organized yet intense.\n\nMovement is constant and rarely slows down.\n\nThe experience is more functional than relaxing.\n\nThe city reflects a modern lifestyle.\n\nGurugram feels urban, fast-paced, and dynamic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Scenic"]
+  },
+  {
+    "name": "Panipat",
+    "img": "",
+    "short": "A historic city known for its battlefields and cultural heritage.",
+    "long": "Panipat feels deeply historical, known for events that shaped the region.\n\nThe environment is calm with reminders of its past.\n\nThe city has open areas and structured streets.\n\nThe pace of life is steady and not rushed.\n\nThe surroundings feel grounded and simple.\n\nThere are landmarks connected to historical moments.\n\nThe atmosphere is quiet and reflective.\n\nThe city blends daily life with historical presence.\n\nThe environment feels authentic and unchanged.\n\nWalking around feels relaxed and easy.\n\nThe place is not overly crowded.\n\nThe visuals are subtle but meaningful.\n\nThe city has a strong identity.\n\nThe experience is calm and observational.\n\nThe surroundings feel stable and consistent.\n\nPanipat feels historical, calm, and grounded.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Historical", "Scenic"]
+  },
+  {
+    "name": "Kedarnath",
+    "img": "",
+    "short": "A sacred Himalayan temple surrounded by snow-covered mountains.",
+    "long": "Kedarnath feels powerful and spiritual, set high in the mountains.\n\nThe journey itself adds depth to the experience.\n\nThe temple stands strong against the harsh landscape.\n\nSnow-covered peaks surround the area.\n\nThe environment feels cold and intense.\n\nThe air is thin and fresh.\n\nThe place feels remote and isolated.\n\nVisitors move slowly due to altitude.\n\nThe atmosphere is quiet and deeply focused.\n\nThe mountains dominate the scenery.\n\nThe environment feels raw and untouched.\n\nThe experience is both physical and emotional.\n\nThe surroundings create a sense of awe.\n\nThe pace of life slows down significantly.\n\nThe temple feels central and grounded.\n\nKedarnath feels spiritual, powerful, and majestic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Mountains", "Hiking", "Scenic"]
+  },
+  {
+    "name": "Auli",
+    "img": "",
+    "short": "A snowy hill destination known for skiing and mountain views.",
+    "long": "Auli feels calm and visually stunning, especially during winter.\n\nThe landscape is covered with snow for much of the season.\n\nThe environment feels clean and fresh.\n\nThe mountains stretch wide across the horizon.\n\nThe area is less crowded compared to major hill stations.\n\nThe slopes create opportunities for adventure activities.\n\nThe air is crisp and cool.\n\nThe place feels open and peaceful.\n\nThe views are clear and uninterrupted.\n\nThe surroundings remain quiet and steady.\n\nWalking through snow adds to the experience.\n\nThe pace of life is slow and relaxed.\n\nThe environment feels natural and untouched.\n\nThe visuals are bright and refreshing.\n\nThe atmosphere remains calm throughout.\n\nAuli feels scenic, adventurous, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic", "Hiking"]
+  },
+  {
+    "name": "Rishikesh",
+    "img": "",
+    "short": "A spiritual town by the Ganges known for yoga, adventure, and peaceful vibes.",
+    "long": "Rishikesh feels balanced between calm spirituality and active adventure.\n\nThe Ganges flows steadily through the town.\n\nThe riverbanks create peaceful spaces.\n\nThe environment is fresh and open.\n\nThe place attracts both spiritual seekers and travelers.\n\nThe atmosphere shifts between calm and energetic.\n\nAdventure activities add excitement to the area.\n\nThe surrounding hills add depth to the scenery.\n\nThe town feels organized and accessible.\n\nWalking around feels relaxed and engaging.\n\nThe evenings feel calm and reflective.\n\nThe sound of the river adds to the experience.\n\nThe place encourages both activity and rest.\n\nThe environment feels balanced and steady.\n\nThe visuals are soothing and natural.\n\nRishikesh feels spiritual, adventurous, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Adventure", "Mountains", "Scenic"]
+  },
+  {
+    "name": "Nainital",
+    "img": "",
+    "short": "A popular hill station known for its lake, cool climate, and scenic beauty.",
+    "long": "Nainital feels lively yet calm, centered around its beautiful lake.\n\nThe lake reflects the surrounding hills and buildings.\n\nThe environment feels cool and refreshing.\n\nThe town is built around the lake in a circular pattern.\n\nBoating adds activity to the otherwise calm setting.\n\nThe surrounding hills provide scenic viewpoints.\n\nThe streets are active but manageable.\n\nThe place feels welcoming and easy to explore.\n\nThe air feels fresh and light.\n\nThe environment remains visually appealing throughout the day.\n\nEvenings around the lake feel vibrant.\n\nThe pace of life is balanced.\n\nThe surroundings feel organized and structured.\n\nThe experience is both relaxing and engaging.\n\nThe visuals remain consistent and soothing.\n\nNainital feels scenic, lively, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Valley of Flowers",
+    "img": "",
+    "short": "A colorful Himalayan valley known for its rich biodiversity and scenic beauty.",
+    "long": "Valley of Flowers feels vibrant and alive, especially during the blooming season.\n\nThe landscape is covered with a variety of colorful flowers.\n\nThe valley stretches wide with open and natural surroundings.\n\nThe air feels fresh and clean.\n\nThe environment is peaceful and less crowded.\n\nThe trek to reach the valley adds to the experience.\n\nThe mountains surrounding the valley enhance its beauty.\n\nThe place feels untouched and natural.\n\nThe atmosphere is calm and steady.\n\nThe visuals change with seasons.\n\nThe environment supports rich plant life.\n\nWalking through the valley feels refreshing.\n\nThe silence adds to the experience.\n\nThe area feels preserved and protected.\n\nThe scenery feels magical and soothing.\n\nValley of Flowers feels ecological, scenic, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["UNESCO", "Ecological", "Mountains", "Hiking", "Scenic"]
+  },
+  {
+    "name": "Srinagar",
+    "img": "",
+    "short": "A scenic city known for its lakes, houseboats, and mountain views.",
+    "long": "Srinagar feels calm and picturesque, centered around its lakes.\n\nDal Lake creates a unique and peaceful environment.\n\nHouseboats add charm to the surroundings.\n\nThe mountains in the background enhance the view.\n\nThe air feels fresh and cool.\n\nThe environment is relaxed and steady.\n\nBoating adds activity to the calm waters.\n\nThe city feels open and scenic.\n\nThe pace of life is slow and soothing.\n\nThe reflections on water create beautiful visuals.\n\nThe surroundings feel balanced and clean.\n\nThe atmosphere is peaceful throughout the day.\n\nThe place feels welcoming and calm.\n\nWalking around feels relaxing.\n\nThe visuals remain consistent and attractive.\n\nSrinagar feels scenic, peaceful, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Vaishno Devi",
+    "img": "",
+    "short": "A sacred pilgrimage site located in the mountains with a spiritual atmosphere.",
+    "long": "Vaishno Devi feels deeply spiritual, located high in the mountains.\n\nThe journey to the temple adds meaning to the experience.\n\nThe path is active with pilgrims throughout the day.\n\nThe surroundings include hills and scenic views.\n\nThe environment feels focused and devotional.\n\nThe climb requires effort and endurance.\n\nThe atmosphere is energetic yet spiritual.\n\nThe place feels organized despite crowds.\n\nThe temple area feels calm and centered.\n\nThe air feels fresh at higher altitudes.\n\nThe journey is as important as the destination.\n\nThe environment remains active at all times.\n\nThe experience is both physical and emotional.\n\nThe surroundings enhance the spiritual feel.\n\nThe place feels meaningful and strong.\n\nVaishno Devi feels spiritual, intense, and scenic.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Spiritual", "Mountains", "Hiking", "Scenic"]
+  },
+  {
+    "name": "Gulmarg",
+    "img": "",
+    "short": "A beautiful hill station known for snow, meadows, and adventure activities.",
+    "long": "Gulmarg feels open and scenic with vast green meadows.\n\nIn winter, the area transforms into a snowy landscape.\n\nThe environment feels fresh and clean.\n\nThe mountains create a wide and open horizon.\n\nThe place is less crowded compared to other destinations.\n\nThe air feels crisp and cool.\n\nThe surroundings remain peaceful and calm.\n\nAdventure activities add excitement to the area.\n\nThe visuals change with seasons.\n\nThe environment feels natural and untouched.\n\nWalking around feels relaxing.\n\nThe scenery is consistent and beautiful.\n\nThe pace of life is slow.\n\nThe place encourages outdoor exploration.\n\nThe atmosphere is soothing and refreshing.\n\nGulmarg feels scenic, adventurous, and peaceful.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Sonmarg",
+    "img": "",
+    "short": "A scenic destination known for glaciers, rivers, and mountain landscapes.",
+    "long": "Sonmarg feels vast and open, surrounded by tall mountains.\n\nThe rivers flowing through add movement to the scenery.\n\nThe environment feels fresh and untouched.\n\nThe place is less crowded and peaceful.\n\nThe mountains create a strong visual impact.\n\nThe air feels cool and clean.\n\nThe surroundings remain calm and steady.\n\nThe area feels natural and raw.\n\nThe visuals are wide and uninterrupted.\n\nWalking around feels refreshing.\n\nThe environment encourages exploration.\n\nThe place feels isolated in a positive way.\n\nThe atmosphere is quiet and relaxing.\n\nThe scenery remains consistent throughout.\n\nThe experience is calm and visual.\n\nSonmarg feels scenic, peaceful, and expansive.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Pahalgam",
+    "img": "",
+    "short": "A peaceful valley known for rivers, greenery, and scenic landscapes.",
+    "long": "Pahalgam feels calm and refreshing, surrounded by greenery.\n\nThe river flowing through adds a soothing element.\n\nThe environment feels clean and natural.\n\nThe mountains provide a strong scenic backdrop.\n\nThe place is peaceful and less crowded.\n\nThe air feels cool and fresh.\n\nThe surroundings are open and spacious.\n\nWalking around feels relaxing.\n\nThe pace of life is slow and steady.\n\nThe visuals remain consistent and soothing.\n\nThe environment feels untouched and natural.\n\nThe atmosphere is quiet and balanced.\n\nThe place encourages calm exploration.\n\nThe scenery is visually pleasing.\n\nThe experience is simple yet fulfilling.\n\nPahalgam feels scenic, peaceful, and refreshing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Tawang",
+    "img": "",
+    "short": "A high-altitude town known for monasteries, mountains, and peaceful surroundings.",
+    "long": "Tawang feels remote and peaceful, surrounded by vast mountain landscapes.\n\nThe environment is calm and less crowded.\n\nThe air feels fresh and thin due to altitude.\n\nThe town is spread across hills with wide views.\n\nMonasteries add a strong spiritual presence.\n\nThe surroundings feel raw and untouched.\n\nThe roads wind through mountains offering scenic drives.\n\nThe place feels isolated in a positive way.\n\nThe pace of life is slow and steady.\n\nThe visuals are wide and open.\n\nThe weather remains cool most of the time.\n\nThe environment encourages calm exploration.\n\nThe atmosphere is quiet and reflective.\n\nThe landscape feels strong and natural.\n\nThe experience is both visual and peaceful.\n\nTawang feels spiritual, scenic, and serene.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Spiritual", "Scenic"]
+  },
+  {
+    "name": "Manali",
+    "img": "",
+    "short": "A popular hill destination known for adventure, rivers, and mountain views.",
+    "long": "Manali feels lively yet scenic, with a mix of activity and nature.\n\nThe mountains surround the town on all sides.\n\nThe river flowing through adds constant movement.\n\nThe environment feels cool and refreshing.\n\nThe place is active with tourists throughout the year.\n\nAdventure activities add excitement to the experience.\n\nThe streets are lively and energetic.\n\nThe views remain visually appealing at all times.\n\nThe air feels clean and fresh.\n\nThe surroundings offer both calm and activity.\n\nThe place feels vibrant and engaging.\n\nThe pace of life varies depending on the area.\n\nThe environment remains dynamic.\n\nThe scenery is consistently beautiful.\n\nThe experience is both relaxing and adventurous.\n\nManali feels scenic, lively, and adventurous.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic"]
+  },
+  {
+    "name": "Shimla",
+    "img": "",
+    "short": "A classic hill station known for colonial charm and scenic views.",
+    "long": "Shimla feels structured and lively, built across hills.\n\nThe buildings follow the slope of the terrain.\n\nThe environment feels cool and pleasant.\n\nThe town has a mix of old charm and modern life.\n\nThe streets are active but manageable.\n\nThe views from different points are scenic.\n\nThe air feels fresh and clean.\n\nThe place feels organized and accessible.\n\nWalking around involves slopes and turns.\n\nThe atmosphere is steady and balanced.\n\nThe surroundings remain visually appealing.\n\nThe pace of life is moderate.\n\nThe environment encourages exploration.\n\nThe city feels welcoming and active.\n\nThe scenery remains consistent.\n\nShimla feels scenic, lively, and structured.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic"]
+  },
+  {
+    "name": "Dharamshala",
+    "img": "",
+    "short": "A peaceful hill town known for its calm environment and mountain views.",
+    "long": "Dharamshala feels calm and spiritual, surrounded by mountains.\n\nThe environment is peaceful and less crowded.\n\nThe air feels fresh and cool.\n\nThe town has a quiet and steady rhythm.\n\nThe surroundings include greenery and hills.\n\nThe place feels relaxed and open.\n\nWalking around feels comfortable and easy.\n\nThe atmosphere encourages calmness.\n\nThe views remain scenic and soothing.\n\nThe pace of life is slow.\n\nThe environment feels natural and balanced.\n\nThe area is not overly commercial.\n\nThe experience is peaceful and simple.\n\nThe surroundings remain consistent.\n\nThe place feels grounded and calm.\n\nDharamshala feels scenic, peaceful, and spiritual.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Spiritual", "Scenic"]
+  },
+  {
+    "name": "Kasol",
+    "img": "",
+    "short": "A small hill village known for its relaxed vibe and riverside setting.",
+    "long": "Kasol feels laid-back and calm, surrounded by hills and a flowing river.\n\nThe environment is peaceful and not crowded.\n\nThe air feels fresh and cool.\n\nThe river adds a soothing sound to the surroundings.\n\nThe place feels simple and relaxed.\n\nThe pace of life is slow and easy.\n\nThe surroundings remain natural and untouched.\n\nWalking around feels comfortable.\n\nThe atmosphere is quiet and steady.\n\nThe environment encourages relaxation.\n\nThe visuals are soft and soothing.\n\nThe place feels disconnected from busy life.\n\nThe experience is calm and refreshing.\n\nThe scenery remains consistent.\n\nThe simplicity adds to its charm.\n\nKasol feels scenic, peaceful, and relaxing.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Scenic", "Ecological"]
+  },
+  {
+    "name": "Spiti Valley",
+    "img": "",
+    "short": "A cold desert region known for its rugged terrain and high-altitude landscapes.",
+    "long": "Spiti Valley feels raw and extreme, with a unique cold desert landscape.\n\nThe mountains appear dry and rugged.\n\nThe environment feels isolated and untouched.\n\nThe air is thin and very fresh.\n\nThe roads are challenging but scenic.\n\nThe place feels remote and quiet.\n\nThe landscape stretches wide and open.\n\nThe surroundings remain calm and still.\n\nThe experience is more about observation.\n\nThe environment feels harsh yet beautiful.\n\nThe visuals are different from typical green hills.\n\nThe pace of life is very slow.\n\nThe silence adds depth to the experience.\n\nThe region feels powerful and natural.\n\nThe scenery remains unique and striking.\n\nSpiti feels rugged, scenic, and adventurous.",
+    "lat": "",
+    "lon": "",
+    "tags": ["Mountains", "Adventure", "Scenic", "Hiking"]
+  },
+  
+
+
