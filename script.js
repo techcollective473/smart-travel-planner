@@ -1,13 +1,4 @@
-// INTRO TEXT
-const texts = ["नमस्ते","নমস্কার","வணக்கம்","ನಮಸ್ಕಾರ","ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ"];
-let i = 0;
-
-setInterval(() => {
-  i = (i + 1) % texts.length;
-  document.getElementById("text").innerText = texts[i];
-}, 1200);
-
-// INTRO HIDE
+// 🔥 INTRO FIX (ALWAYS WORK)
 window.onload = () => {
   setTimeout(() => {
     document.getElementById("intro").style.transform = "translateY(-100%)";
@@ -16,20 +7,45 @@ window.onload = () => {
       document.getElementById("main").style.display = "block";
       document.body.style.overflow = "auto";
     }, 1000);
-  }, 4000);
+  }, 3000);
 };
 
-// FETCH DATA
-let places = [];
+// TEXT CHANGE
+const texts = ["नमस्ते","नमस्कार","Welcome"];
+let i = 0;
 
+setInterval(() => {
+  i = (i + 1) % texts.length;
+  document.getElementById("text").innerText = texts[i];
+}, 1200);
+
+// DATA (backup if JSON fails)
+let places = [
+  {
+    name: "Manali",
+    region: "North",
+    tags: ["Mountains"],
+    img: "images/manali.jpg",
+    short: "Hill station",
+    long: "Manali is famous for snow.",
+    lat: 32.24,
+    lon: 77.18
+  }
+];
+
+// FETCH JSON (SAFE)
 fetch("data.json")
   .then(res => res.json())
   .then(data => {
     places = data;
     loadCards();
+  })
+  .catch(() => {
+    console.log("JSON failed, using backup");
+    loadCards();
   });
 
-// LOAD CARDS
+// CREATE CARDS
 function loadCards() {
   const container = document.getElementById("cards");
   container.innerHTML = "";
@@ -44,13 +60,12 @@ function loadCards() {
     `;
 
     div.onclick = () => openModal(p);
-
     container.appendChild(div);
   });
 }
 
 // MODAL
-async function openModal(p) {
+function openModal(p) {
   document.getElementById("modal").style.display = "block";
 
   document.getElementById("modalImg").src = p.img;
@@ -58,19 +73,39 @@ async function openModal(p) {
   document.getElementById("shortDesc").innerText = p.short;
   document.getElementById("longDesc").innerText = p.long;
 
-  // WEATHER
-  try {
-    const res = await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?lat=${p.lat}&lon=${p.lon}&appid=YOUR_API_KEY&units=metric`
-    );
-    const data = await res.json();
-    document.getElementById("weather").innerText =
-      data.main.temp + "°C";
-  } catch {
-    document.getElementById("weather").innerText = "Not available";
-  }
+  document.getElementById("map").src =
+    `https://maps.google.com/maps?q=${p.lat},${p.lon}&z=12&output=embed`;
 
-  // MAP
+  document.getElementById("weather").innerText = "Demo mode";
+}
+
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+}
+
+function toggleDesc() {
+  const d = document.getElementById("longDesc");
+  d.style.display = d.style.display === "none" ? "block" : "none";
+}
+
+// FILTER
+function filterPlaces() {
+  const interests = Array.from(
+    document.querySelectorAll("#interestBox input:checked")
+  ).map(el => el.value);
+
+  const regions = Array.from(
+    document.querySelectorAll("#regionBox input:checked")
+  ).map(el => el.value);
+
+  const filtered = places.filter(p =>
+    (interests.length === 0 || interests.some(t => p.tags.includes(t))) &&
+    (regions.length === 0 || regions.includes(p.region))
+  );
+
+  document.getElementById("results").innerHTML =
+    filtered.map(p => `<p>${p.name}</p>`).join("");
+    }  // MAP
   document.getElementById("map").src =
     `https://maps.google.com/maps?q=${p.lat},${p.lon}&z=12&output=embed`;
 }
