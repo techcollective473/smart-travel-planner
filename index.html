@@ -4,30 +4,76 @@
   <title>Smart Travel Planner</title>
   <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
-<!-- ATTRACTIONS -->
-<section class="section">
-  <h1>Attractions</h1>
-  <div id="cards" class="scroll"></div>
-</section>
+<!-- INTRO -->
+<div id="intro">
+  <div id="text">नमस्ते</div>
+</div>
+
+<!-- MAIN -->
+<div id="main">
+
+  <!-- ATTRACTIONS -->
+  <section class="section">
+    <h1>Attractions</h1>
+    <div id="cards" class="scroll"></div>
+  </section>
+
+  <!-- DESTINATIONS -->
+  <section class="section destinations">
+
+    <div class="filter-box">
+
+      <h2>Plan Your Travel</h2>
+
+      <!-- INTEREST -->
+      <h3>Interest</h3>
+      <div id="interestBox">
+        <label><input type="checkbox" value="Spiritual"> Spiritual</label>
+        <label><input type="checkbox" value="Historical"> Historical</label>
+        <label><input type="checkbox" value="UNESCO"> UNESCO</label>
+        <label><input type="checkbox" value="Wildlife"> Wildlife</label>
+        <label><input type="checkbox" value="Beaches"> Beaches</label>
+        <label><input type="checkbox" value="Mountains"> Mountains</label>
+        <label><input type="checkbox" value="Festivals"> Festivals</label>
+        <label><input type="checkbox" value="Adventure"> Adventure</label>
+        <label><input type="checkbox" value="Hiking"> Hiking</label>
+        <label><input type="checkbox" value="Ecological"> Ecological</label>
+        <label><input type="checkbox" value="Scenic"> Scenic</label>
+      </div>
+
+      <!-- REGION -->
+      <h3>Region</h3>
+      <div id="regionBox">
+        <label><input type="checkbox" value="North"> North</label>
+        <label><input type="checkbox" value="South"> South</label>
+        <label><input type="checkbox" value="East"> East</label>
+        <label><input type="checkbox" value="West"> West</label>
+      </div>
+
+      <button onclick="filterPlaces()">Search</button>
+
+      <div id="results"></div>
+
+    </div>
+
+  </section>
+
+</div>
 
 <!-- MODAL -->
 <div id="modal" class="modal">
   <div class="modal-content">
 
-    <!-- IMAGE -->
     <div class="modal-header">
       <img id="modalImg">
       <div class="overlay"></div>
       <h2 id="modalTitle"></h2>
     </div>
 
-    <!-- DETAILS -->
     <div class="modal-body">
       <p id="shortDesc"></p>
-
       <button onclick="toggleDesc()">See More</button>
       <p id="longDesc" style="display:none;"></p>
 
